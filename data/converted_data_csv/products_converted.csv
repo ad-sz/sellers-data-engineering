@@ -1,0 +1,61 @@
+id_product;category_product;name_product;unit_price
+1;electronics;laptop;286.36
+2;electronics;smartphone;443.38
+3;electronics;tablet;366.3
+4;electronics;headphones;486.39
+5;electronics;camera;180.47
+6;electronics;smartwatch;133.49
+7;electronics;e-reader;124.11
+8;electronics;game console;172.31
+9;electronics;vr headset;421.47
+10;electronics;drone;373.0
+11;home appliances;refrigerator;177.97
+12;home appliances;microwave;409.2
+13;home appliances;vacuum cleaner;321.36
+14;home appliances;washing machine;175.81
+15;home appliances;coffee machine;488.53
+16;home appliances;dishwasher;192.46
+17;home appliances;toaster;472.73
+18;home appliances;blender;448.75
+19;home appliances;air purifier;289.79
+20;home appliances;electric kettle;386.45
+21;garden;lawn mower;319.8
+22;garden;grill;490.4
+23;garden;pruning shears;182.53
+24;garden;shovel;119.01
+25;garden;garden hose;80.36
+26;garden;sprinkler;252.06
+27;garden;hedge trimmer;115.83
+28;garden;wheelbarrow;197.72
+29;garden;garden fork;445.02
+30;garden;watering can;327.29
+31;electronics;projector;498.57
+32;electronics;wireless charger;347.48
+33;electronics;bluetooth speaker;193.92
+34;electronics;external hard drive;303.42
+35;electronics;digital camera;106.29
+36;electronics;action camera;67.45
+37;electronics;portable gaming system;162.18
+38;electronics;smart home hub;436.04
+39;electronics;wearable fitness tracker;383.13
+40;electronics;noise cancelling headphones;398.86
+41;home appliances;slow cooker;142.42
+42;home appliances;electric grill;269.68
+43;home appliances;rice cooker;360.77
+44;home appliances;steam iron;385.8
+45;home appliances;stand mixer;308.99
+46;home appliances;bread maker;97.27
+47;home appliances;electric toothbrush;320.83
+48;home appliances;hair dryer;466.13
+49;home appliances;air fryer;172.82
+50;home appliances;humidifier;267.02
+51;garden;patio heater;264.27
+52;garden;leaf blower;203.1
+53;garden;compost bin;458.17
+54;garden;solar light;497.68
+55;garden;bird feeder;259.8
+56;garden;garden bench;158.28
+57;garden;outdoor fire pit;298.7
+58;garden;patio umbrella;391.96
+59;garden;garden sculpture;174.01
+60;garden;rain barrel;474.58

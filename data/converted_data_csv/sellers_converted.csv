@@ -1,0 +1,10 @@
+id_seller;first_name;last_name;employment_date;date_of_birth;region
+s1;alex;smith;2021-06-07;1965-04-11;north
+s2;jamie;johnson;2022-11-15;1983-04-07;south
+s3;chris;williams;2023-11-23;1994-04-04;east
+s4;jordan;brown;2022-12-29;1989-04-05;west
+s5;casey;davis;2019-07-31;1993-04-04;central
+s6;morgan;taylor;2020-01-01;1990-01-01;north-east
+s7;riley;moore;2020-01-01;1990-01-01;south-east
+s8;quinn;wilson;2020-01-01;1990-01-01;north-west
+s9;taylor;miller;2020-01-01;1990-01-01;south-west
