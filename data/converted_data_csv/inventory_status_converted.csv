@@ -1,4 +1,4 @@
-id_product;quantity_in_stock;pallet_space;posting_date
+id_product;quantity_in_stock;pallet_space;date_posting
 1;49;r05k10p02;2024-02-27
 1;15;r04k08p01;2024-03-20
 1;25;r05k10p01;2024-03-24

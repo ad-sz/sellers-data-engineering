@@ -1,4 +1,4 @@
-id_seller;first_name;last_name;employment_date;date_of_birth;region
+id_seller;first_name;last_name;date_employment;date_birth;region
 s1;alex;smith;2021-06-07;1965-04-11;north
 s2;jamie;johnson;2022-11-15;1983-04-07;south
 s3;chris;williams;2023-11-23;1994-04-04;east

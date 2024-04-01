@@ -14,5 +14,5 @@ def run_powershell_data_to_sql_table(POWERSHELL_FILEPATH):
 
     # if error print them
     if process.stderr:
-        print("Błędy:")
+        print("Errors:")
         print(process.stderr)

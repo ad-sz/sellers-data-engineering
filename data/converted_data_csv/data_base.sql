@@ -20,6 +20,10 @@ CREATE TABLE sales_transactions (
     name_customer VARCHAR(100),
     name_product VARCHAR(100),
     quantity_sold INT,
+	date_sale DATE,
+	category_product VARCHAR(100),
+	unit_price DECIMAL(10, 2),
+	transaction_amount DECIMAL(10, 2),
     region VARCHAR(100),
     id_seller VARCHAR(50)
 );
@@ -41,10 +45,17 @@ CREATE TABLE customers (
     id_seller VARCHAR(50)
 );
 
-SELECT * FROM customers;
+SELECT * FROM sales_transactions;
+SELECT * FROM products;
 
 TRUNCATE TABLE customers;
 TRUNCATE TABLE inventory_status;
 TRUNCATE TABLE products;
 TRUNCATE TABLE sales_transactions;
 TRUNCATE TABLE sellers;
+
+DROP TABLE customers;
+DROP TABLE inventory_status;
+DROP TABLE products;
+DROP TABLE sales_transactions;
+DROP TABLE sellers;

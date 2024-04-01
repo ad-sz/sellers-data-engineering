@@ -1,1001 +1,1001 @@
-id_transaction;name_customer;name_product;quantity_sold;region;id_seller
-t1;customer8;tablet;2;west;s4
-t2;customer6;smartwatch;7;south;s2
-t3;customer10;microwave;3;south-east;s7
-t4;customer30;coffee machine;9;south-west;s9
-t5;customer22;camera;3;east;s3
-t6;customer4;e-reader;9;south-west;s9
-t7;customer7;calculator;8;north-west;s8
-t8;customer12;notebook;7;north-east;s6
-t9;customer3;smartwatch;4;south;s2
-t10;customer13;calculator;5;east;s3
-t11;customer18;notebook;5;north-east;s6
-t12;customer13;paper clips;6;east;s3
-t13;customer11;vacuum cleaner;8;central;s5
-t14;customer28;binder;10;central;s5
-t15;customer18;microwave;5;north-east;s6
-t16;customer13;hair dryer;4;east;s3
-t17;customer21;electric kettle;6;west;s4
-t18;customer29;paper clips;2;south-east;s7
-t19;customer28;binder;4;central;s5
-t20;customer5;camera;6;central;s5
-t21;customer18;highlighter;2;north-east;s6
-t22;customer23;toaster;9;south-east;s7
-t23;customer26;fan;9;north;s1
-t24;customer15;laptop;8;south-east;s7
-t25;customer24;fan;4;north-west;s8
-t26;customer2;headphones;2;north-east;s6
-t27;customer12;desk organizer;9;north-east;s6
-t28;customer4;vr headset;2;south-west;s9
-t29;customer28;portable speaker;9;central;s5
-t30;customer15;whiteboard marker;6;south-east;s7
-t31;customer9;electric kettle;5;central;s5
-t32;customer22;paper clips;5;east;s3
-t33;customer6;camera;10;south;s2
-t34;customer13;highlighter;7;east;s3
-t35;customer23;envelope;1;south-east;s7
-t36;customer4;pen set;10;south-west;s9
-t37;customer5;smartphone;8;central;s5
-t38;customer2;air purifier;7;north-east;s6
-t39;customer3;air purifier;5;south;s2
-t40;customer11;highlighter;3;central;s5
-t41;customer18;headphones;5;north-east;s6
-t42;customer6;desk lamp;10;south;s2
-t43;customer14;drone;9;north-west;s8
-t44;customer9;smartphone;9;central;s5
-t45;customer2;coffee machine;7;north-east;s6
-t46;customer2;blender;5;north-east;s6
-t47;customer25;tablet;8;south-east;s7
-t48;customer11;stapler;1;central;s5
-t49;customer13;calculator;4;east;s3
-t50;customer13;laptop;7;east;s3
-t51;customer29;smartphone;4;south-east;s7
-t52;customer23;headphones;8;south-east;s7
-t53;customer9;electric kettle;4;central;s5
-t54;customer19;stapler;9;north-west;s8
-t55;customer2;stapler;3;north-east;s6
-t56;customer4;electric kettle;9;south-west;s9
-t57;customer24;fan;9;north-west;s8
-t58;customer14;pen set;4;north-west;s8
-t59;customer9;air purifier;7;central;s5
-t60;customer9;desk organizer;1;central;s5
-t61;customer24;toaster;9;north-west;s8
-t62;customer21;tablet;2;west;s4
-t63;customer28;vr headset;2;central;s5
-t64;customer27;desk organizer;1;central;s5
-t65;customer2;smartphone;2;north-east;s6
-t66;customer7;smartwatch;9;north-west;s8
-t67;customer8;coffee machine;4;west;s4
-t68;customer23;desk lamp;8;south-east;s7
-t69;customer24;fan;5;north-west;s8
-t70;customer21;stapler;6;west;s4
-t71;customer11;pen set;2;central;s5
-t72;customer3;portable speaker;2;south;s2
-t73;customer15;drone;1;south-east;s7
-t74;customer27;coffee machine;7;central;s5
-t75;customer15;tablet;5;south-east;s7
-t76;customer9;fan;5;central;s5
-t77;customer1;blender;9;south-east;s7
-t78;customer19;laptop;6;north-west;s8
-t79;customer13;microwave;3;east;s3
-t80;customer18;stapler;4;north-east;s6
-t81;customer14;notebook;8;north-west;s8
-t82;customer23;calculator;7;south-east;s7
-t83;customer10;air purifier;9;south-east;s7
-t84;customer30;camera;3;south-west;s9
-t85;customer22;tablet;1;east;s3
-t86;customer3;whiteboard marker;10;south;s2
-t87;customer13;tablet;8;east;s3
-t88;customer1;electric kettle;3;south-east;s7
-t89;customer17;highlighter;7;west;s4
-t90;customer23;pen set;9;south-east;s7
-t91;customer27;vacuum cleaner;4;central;s5
-t92;customer22;desk lamp;10;east;s3
-t93;customer26;paper clips;9;north;s1
-t94;customer15;vr headset;8;south-east;s7
-t95;customer2;whiteboard marker;5;north-east;s6
-t96;customer10;smartphone;10;south-east;s7
-t97;customer27;smartwatch;7;central;s5
-t98;customer29;desk organizer;10;south-east;s7
-t99;customer12;whiteboard marker;7;north-east;s6
-t100;customer21;whiteboard marker;4;west;s4
-t101;customer5;drone;1;central;s5
-t102;customer16;desk lamp;1;east;s3
-t103;customer26;highlighter;3;north;s1
-t104;customer29;envelope;2;south-east;s7
-t105;customer19;vr headset;1;north-west;s8
-t106;customer27;whiteboard marker;5;central;s5
-t107;customer14;laptop;2;north-west;s8
-t108;customer27;smartwatch;4;central;s5
-t109;customer2;desk organizer;6;north-east;s6
-t110;customer25;binder;6;south-east;s7
-t111;customer10;e-reader;5;south-east;s7
-t112;customer3;camera;3;south;s2
-t113;customer3;smartphone;5;south;s2
-t114;customer7;toaster;2;north-west;s8
-t115;customer17;highlighter;4;west;s4
-t116;customer14;toaster;8;north-west;s8
-t117;customer9;envelope;7;central;s5
-t118;customer18;headphones;6;north-east;s6
-t119;customer26;highlighter;10;north;s1
-t120;customer11;headphones;3;central;s5
-t121;customer21;blender;8;west;s4
-t122;customer3;binder;4;south;s2
-t123;customer24;stapler;5;north-west;s8
-t124;customer2;desk organizer;8;north-east;s6
-t125;customer9;air purifier;8;central;s5
-t126;customer9;binder;3;central;s5
-t127;customer17;smartphone;5;west;s4
-t128;customer12;toaster;9;north-east;s6
-t129;customer9;electric kettle;5;central;s5
-t130;customer9;blender;1;central;s5
-t131;customer8;headphones;3;west;s4
-t132;customer8;microwave;7;west;s4
-t133;customer9;highlighter;2;central;s5
-t134;customer2;toaster;8;north-east;s6
-t135;customer5;toaster;10;central;s5
-t136;customer13;electric kettle;2;east;s3
-t137;customer21;desk organizer;10;west;s4
-t138;customer19;toaster;10;north-west;s8
-t139;customer26;highlighter;7;north;s1
-t140;customer20;hair dryer;3;south;s2
-t141;customer28;smartwatch;10;central;s5
-t142;customer20;highlighter;1;south;s2
-t143;customer12;desk lamp;1;north-east;s6
-t144;customer27;envelope;1;central;s5
-t145;customer2;drone;3;north-east;s6
-t146;customer3;highlighter;7;south;s2
-t147;customer30;calculator;3;south-west;s9
-t148;customer9;calculator;2;central;s5
-t149;customer13;electric kettle;9;east;s3
-t150;customer27;notebook;1;central;s5
-t151;customer19;air purifier;1;north-west;s8
-t152;customer18;vr headset;6;north-east;s6
-t153;customer9;whiteboard marker;7;central;s5
-t154;customer1;electric kettle;2;south-east;s7
-t155;customer24;tablet;3;north-west;s8
-t156;customer17;e-reader;6;west;s4
-t157;customer1;smartphone;7;south-east;s7
-t158;customer16;pen set;9;east;s3
-t159;customer21;coffee machine;1;west;s4
-t160;customer8;e-reader;7;west;s4
-t161;customer6;headphones;10;south;s2
-t162;customer30;stapler;1;south-west;s9
-t163;customer11;laptop;9;central;s5
-t164;customer6;fan;5;south;s2
-t165;customer22;coffee machine;1;east;s3
-t166;customer9;whiteboard marker;8;central;s5
-t167;customer8;envelope;4;west;s4
-t168;customer4;binder;4;south-west;s9
-t169;customer12;tablet;2;north-east;s6
-t170;customer11;air purifier;3;central;s5
-t171;customer8;electric kettle;1;west;s4
-t172;customer10;air purifier;4;south-east;s7
-t173;customer28;tablet;8;central;s5
-t174;customer26;whiteboard marker;3;north;s1
-t175;customer19;pen set;9;north-west;s8
-t176;customer1;vacuum cleaner;10;south-east;s7
-t177;customer14;whiteboard marker;8;north-west;s8
-t178;customer10;headphones;10;south-east;s7
-t179;customer2;microwave;5;north-east;s6
-t180;customer5;portable speaker;7;central;s5
-t181;customer23;vr headset;4;south-east;s7
-t182;customer2;envelope;3;north-east;s6
-t183;customer10;calculator;3;south-east;s7
-t184;customer14;tablet;7;north-west;s8
-t185;customer19;fan;6;north-west;s8
-t186;customer4;smartwatch;8;south-west;s9
-t187;customer22;stapler;1;east;s3
-t188;customer26;paper clips;4;north;s1
-t189;customer12;fan;8;north-east;s6
-t190;customer2;highlighter;9;north-east;s6
-t191;customer8;binder;7;west;s4
-t192;customer17;paper clips;2;west;s4
-t193;customer13;pen set;8;east;s3
-t194;customer9;headphones;8;central;s5
-t195;customer15;coffee machine;6;south-east;s7
-t196;customer18;calculator;10;north-east;s6
-t197;customer10;air purifier;8;south-east;s7
-t198;customer18;paper clips;6;north-east;s6
-t199;customer15;paper clips;8;south-east;s7
-t200;customer11;toaster;2;central;s5
-t201;customer13;blender;6;east;s3
-t202;customer13;envelope;10;east;s3
-t203;customer6;blender;10;south;s2
-t204;customer8;highlighter;3;west;s4
-t205;customer30;binder;10;south-west;s9
-t206;customer3;microwave;9;south;s2
-t207;customer30;microwave;8;south-west;s9
-t208;customer18;hair dryer;5;north-east;s6
-t209;customer9;air purifier;5;central;s5
-t210;customer28;coffee machine;2;central;s5
-t211;customer7;hair dryer;7;north-west;s8
-t212;customer24;microwave;5;north-west;s8
-t213;customer28;hair dryer;2;central;s5
-t214;customer5;stapler;8;central;s5
-t215;customer18;e-reader;9;north-east;s6
-t216;customer29;vacuum cleaner;7;south-east;s7
-t217;customer12;headphones;2;north-east;s6
-t218;customer2;fan;10;north-east;s6
-t219;customer10;desk organizer;1;south-east;s7
-t220;customer30;portable speaker;1;south-west;s9
-t221;customer13;stapler;4;east;s3
-t222;customer23;vacuum cleaner;9;south-east;s7
-t223;customer28;toaster;5;central;s5
-t224;customer30;smartphone;10;south-west;s9
-t225;customer23;toaster;4;south-east;s7
-t226;customer16;desk organizer;8;east;s3
-t227;customer23;smartphone;9;south-east;s7
-t228;customer18;pen set;4;north-east;s6
-t229;customer25;blender;7;south-east;s7
-t230;customer10;hair dryer;6;south-east;s7
-t231;customer10;binder;8;south-east;s7
-t232;customer13;hair dryer;8;east;s3
-t233;customer23;whiteboard marker;6;south-east;s7
-t234;customer20;paper clips;4;south;s2
-t235;customer20;microwave;9;south;s2
-t236;customer15;laptop;8;south-east;s7
-t237;customer14;desk organizer;7;north-west;s8
-t238;customer10;headphones;3;south-east;s7
-t239;customer8;envelope;6;west;s4
-t240;customer8;tablet;3;west;s4
-t241;customer17;highlighter;2;west;s4
-t242;customer12;desk organizer;7;north-east;s6
-t243;customer25;notebook;5;south-east;s7
-t244;customer16;smartwatch;7;east;s3
-t245;customer18;vr headset;2;north-east;s6
-t246;customer13;notebook;10;east;s3
-t247;customer2;calculator;1;north-east;s6
-t248;customer8;electric kettle;10;west;s4
-t249;customer16;vacuum cleaner;8;east;s3
-t250;customer7;smartwatch;4;north-west;s8
-t251;customer17;air purifier;5;west;s4
-t252;customer27;coffee machine;7;central;s5
-t253;customer13;vr headset;7;east;s3
-t254;customer15;desk lamp;8;south-east;s7
-t255;customer9;blender;6;central;s5
-t256;customer4;portable speaker;7;south-west;s9
-t257;customer21;e-reader;1;west;s4
-t258;customer11;camera;2;central;s5
-t259;customer19;drone;8;north-west;s8
-t260;customer27;binder;4;central;s5
-t261;customer8;whiteboard marker;6;west;s4
-t262;customer15;coffee machine;9;south-east;s7
-t263;customer2;pen set;8;north-east;s6
-t264;customer15;envelope;8;south-east;s7
-t265;customer11;fan;7;central;s5
-t266;customer6;tablet;2;south;s2
-t267;customer19;air purifier;10;north-west;s8
-t268;customer9;electric kettle;7;central;s5
-t269;customer19;highlighter;7;north-west;s8
-t270;customer23;hair dryer;4;south-east;s7
-t271;customer1;tablet;4;south-east;s7
-t272;customer19;smartphone;3;north-west;s8
-t273;customer12;binder;8;north-east;s6
-t274;customer15;notebook;5;south-east;s7
-t275;customer5;air purifier;1;central;s5
-t276;customer18;whiteboard marker;6;north-east;s6
-t277;customer22;microwave;6;east;s3
-t278;customer18;binder;2;north-east;s6
-t279;customer13;pen set;8;east;s3
-t280;customer19;laptop;3;north-west;s8
-t281;customer18;smartwatch;6;north-east;s6
-t282;customer8;highlighter;10;west;s4
-t283;customer28;camera;10;central;s5
-t284;customer21;desk organizer;1;west;s4
-t285;customer20;smartphone;6;south;s2
-t286;customer28;binder;8;central;s5
-t287;customer27;microwave;9;central;s5
-t288;customer28;pen set;6;central;s5
-t289;customer29;laptop;3;south-east;s7
-t290;customer18;drone;7;north-east;s6
-t291;customer24;envelope;8;north-west;s8
-t292;customer6;hair dryer;9;south;s2
-t293;customer29;desk lamp;6;south-east;s7
-t294;customer22;smartphone;5;east;s3
-t295;customer3;notebook;5;south;s2
-t296;customer7;highlighter;1;north-west;s8
-t297;customer24;microwave;5;north-west;s8
-t298;customer29;highlighter;10;south-east;s7
-t299;customer19;drone;6;north-west;s8
-t300;customer20;binder;5;south;s2
-t301;customer12;calculator;9;north-east;s6
-t302;customer20;toaster;3;south;s2
-t303;customer25;electric kettle;2;south-east;s7
-t304;customer8;hair dryer;7;west;s4
-t305;customer18;drone;7;north-east;s6
-t306;customer11;smartphone;1;central;s5
-t307;customer4;smartphone;3;south-west;s9
-t308;customer18;desk organizer;4;north-east;s6
-t309;customer1;smartwatch;5;south-east;s7
-t310;customer8;toaster;10;west;s4
-t311;customer21;laptop;8;west;s4
-t312;customer13;blender;10;east;s3
-t313;customer30;smartphone;9;south-west;s9
-t314;customer4;fan;2;south-west;s9
-t315;customer12;stapler;1;north-east;s6
-t316;customer13;hair dryer;8;east;s3
-t317;customer8;desk lamp;10;west;s4
-t318;customer2;smartwatch;8;north-east;s6
-t319;customer19;camera;10;north-west;s8
-t320;customer23;smartphone;5;south-east;s7
-t321;customer4;smartphone;9;south-west;s9
-t322;customer3;binder;9;south;s2
-t323;customer16;air purifier;6;east;s3
-t324;customer11;calculator;9;central;s5
-t325;customer18;desk lamp;6;north-east;s6
-t326;customer26;smartwatch;7;north;s1
-t327;customer12;camera;9;north-east;s6
-t328;customer13;binder;10;east;s3
-t329;customer19;smartphone;8;north-west;s8
-t330;customer11;e-reader;6;central;s5
-t331;customer3;e-reader;4;south;s2
-t332;customer16;vr headset;6;east;s3
-t333;customer23;vacuum cleaner;3;south-east;s7
-t334;customer7;smartphone;5;north-west;s8
-t335;customer2;whiteboard marker;5;north-east;s6
-t336;customer1;blender;7;south-east;s7
-t337;customer17;notebook;7;west;s4
-t338;customer16;smartphone;5;east;s3
-t339;customer13;coffee machine;1;east;s3
-t340;customer21;tablet;3;west;s4
-t341;customer9;portable speaker;3;central;s5
-t342;customer27;microwave;4;central;s5
-t343;customer30;smartphone;8;south-west;s9
-t344;customer7;hair dryer;2;north-west;s8
-t345;customer3;headphones;10;south;s2
-t346;customer28;envelope;10;central;s5
-t347;customer29;hair dryer;5;south-east;s7
-t348;customer25;binder;4;south-east;s7
-t349;customer1;binder;7;south-east;s7
-t350;customer13;laptop;2;east;s3
-t351;customer24;blender;6;north-west;s8
-t352;customer30;binder;7;south-west;s9
-t353;customer18;air purifier;4;north-east;s6
-t354;customer12;binder;1;north-east;s6
-t355;customer8;vr headset;6;west;s4
-t356;customer28;e-reader;2;central;s5
-t357;customer17;laptop;6;west;s4
-t358;customer9;smartwatch;4;central;s5
-t359;customer16;highlighter;1;east;s3
-t360;customer29;highlighter;3;south-east;s7
-t361;customer1;portable speaker;5;south-east;s7
-t362;customer5;electric kettle;8;central;s5
-t363;customer9;fan;6;central;s5
-t364;customer5;laptop;4;central;s5
-t365;customer8;desk lamp;9;west;s4
-t366;customer13;desk organizer;6;east;s3
-t367;customer5;pen set;10;central;s5
-t368;customer15;calculator;8;south-east;s7
-t369;customer9;air purifier;7;central;s5
-t370;customer7;highlighter;10;north-west;s8
-t371;customer6;highlighter;4;south;s2
-t372;customer9;portable speaker;6;central;s5
-t373;customer11;e-reader;9;central;s5
-t374;customer17;electric kettle;7;west;s4
-t375;customer20;calculator;6;south;s2
-t376;customer11;smartwatch;5;central;s5
-t377;customer19;calculator;6;north-west;s8
-t378;customer8;laptop;7;west;s4
-t379;customer16;blender;8;east;s3
-t380;customer28;tablet;3;central;s5
-t381;customer4;e-reader;9;south-west;s9
-t382;customer10;portable speaker;6;south-east;s7
-t383;customer1;stapler;3;south-east;s7
-t384;customer6;tablet;4;south;s2
-t385;customer15;coffee machine;5;south-east;s7
-t386;customer6;binder;10;south;s2
-t387;customer19;whiteboard marker;9;north-west;s8
-t388;customer4;smartphone;3;south-west;s9
-t389;customer19;blender;7;north-west;s8
-t390;customer4;vr headset;4;south-west;s9
-t391;customer3;smartphone;3;south;s2
-t392;customer1;camera;7;south-east;s7
-t393;customer23;envelope;3;south-east;s7
-t394;customer28;desk organizer;3;central;s5
-t395;customer16;paper clips;8;east;s3
-t396;customer26;binder;6;north;s1
-t397;customer7;microwave;10;north-west;s8
-t398;customer16;stapler;1;east;s3
-t399;customer10;pen set;1;south-east;s7
-t400;customer28;whiteboard marker;7;central;s5
-t401;customer26;e-reader;3;north;s1
-t402;customer20;air purifier;10;south;s2
-t403;customer12;fan;4;north-east;s6
-t404;customer13;tablet;4;east;s3
-t405;customer29;paper clips;5;south-east;s7
-t406;customer18;envelope;7;north-east;s6
-t407;customer22;highlighter;10;east;s3
-t408;customer4;laptop;3;south-west;s9
-t409;customer27;e-reader;9;central;s5
-t410;customer17;toaster;10;west;s4
-t411;customer16;hair dryer;8;east;s3
-t412;customer2;coffee machine;10;north-east;s6
-t413;customer18;envelope;6;north-east;s6
-t414;customer5;notebook;5;central;s5
-t415;customer19;air purifier;2;north-west;s8
-t416;customer28;microwave;5;central;s5
-t417;customer2;highlighter;3;north-east;s6
-t418;customer13;fan;1;east;s3
-t419;customer17;coffee machine;8;west;s4
-t420;customer11;whiteboard marker;4;central;s5
-t421;customer14;vacuum cleaner;8;north-west;s8
-t422;customer21;microwave;5;west;s4
-t423;customer7;headphones;7;north-west;s8
-t424;customer28;stapler;5;central;s5
-t425;customer27;smartphone;10;central;s5
-t426;customer26;headphones;9;north;s1
-t427;customer20;smartwatch;2;south;s2
-t428;customer7;highlighter;2;north-west;s8
-t429;customer6;smartphone;7;south;s2
-t430;customer15;laptop;10;south-east;s7
-t431;customer2;calculator;10;north-east;s6
-t432;customer10;laptop;10;south-east;s7
-t433;customer30;portable speaker;8;south-west;s9
-t434;customer8;smartwatch;3;west;s4
-t435;customer2;headphones;9;north-east;s6
-t436;customer5;highlighter;8;central;s5
-t437;customer19;calculator;2;north-west;s8
-t438;customer27;vacuum cleaner;3;central;s5
-t439;customer10;pen set;3;south-east;s7
-t440;customer9;tablet;10;central;s5
-t441;customer13;microwave;7;east;s3
-t442;customer16;smartphone;1;east;s3
-t443;customer5;laptop;3;central;s5
-t444;customer11;pen set;5;central;s5
-t445;customer6;tablet;3;south;s2
-t446;customer28;coffee machine;4;central;s5
-t447;customer12;e-reader;2;north-east;s6
-t448;customer7;smartphone;10;north-west;s8
-t449;customer19;electric kettle;6;north-west;s8
-t450;customer6;tablet;9;south;s2
-t451;customer29;whiteboard marker;5;south-east;s7
-t452;customer20;smartwatch;6;south;s2
-t453;customer4;headphones;2;south-west;s9
-t454;customer21;camera;9;west;s4
-t455;customer22;desk lamp;7;east;s3
-t456;customer5;notebook;8;central;s5
-t457;customer21;pen set;3;west;s4
-t458;customer14;blender;2;north-west;s8
-t459;customer12;vacuum cleaner;4;north-east;s6
-t460;customer8;toaster;4;west;s4
-t461;customer21;toaster;5;west;s4
-t462;customer8;calculator;7;west;s4
-t463;customer23;electric kettle;6;south-east;s7
-t464;customer5;fan;7;central;s5
-t465;customer20;fan;9;south;s2
-t466;customer17;vr headset;6;west;s4
-t467;customer22;pen set;3;east;s3
-t468;customer25;binder;9;south-east;s7
-t469;customer6;air purifier;4;south;s2
-t470;customer4;binder;7;south-west;s9
-t471;customer11;portable speaker;6;central;s5
-t472;customer28;microwave;4;central;s5
-t473;customer11;air purifier;9;central;s5
-t474;customer25;calculator;8;south-east;s7
-t475;customer19;blender;10;north-west;s8
-t476;customer19;desk lamp;2;north-west;s8
-t477;customer25;desk organizer;6;south-east;s7
-t478;customer30;fan;10;south-west;s9
-t479;customer23;highlighter;5;south-east;s7
-t480;customer19;fan;7;north-west;s8
-t481;customer24;desk lamp;10;north-west;s8
-t482;customer23;binder;1;south-east;s7
-t483;customer26;envelope;7;north;s1
-t484;customer29;fan;5;south-east;s7
-t485;customer28;highlighter;8;central;s5
-t486;customer14;vr headset;1;north-west;s8
-t487;customer30;toaster;8;south-west;s9
-t488;customer11;highlighter;5;central;s5
-t489;customer28;portable speaker;1;central;s5
-t490;customer14;air purifier;7;north-west;s8
-t491;customer13;stapler;5;east;s3
-t492;customer2;smartphone;8;north-east;s6
-t493;customer22;electric kettle;2;east;s3
-t494;customer21;desk lamp;10;west;s4
-t495;customer22;microwave;6;east;s3
-t496;customer18;laptop;6;north-east;s6
-t497;customer16;pen set;6;east;s3
-t498;customer24;binder;2;north-west;s8
-t499;customer27;calculator;1;central;s5
-t500;customer30;fan;9;south-west;s9
-t501;customer8;fan;9;west;s4
-t502;customer26;vacuum cleaner;6;north;s1
-t503;customer29;headphones;5;south-east;s7
-t504;customer2;drone;5;north-east;s6
-t505;customer20;fan;2;south;s2
-t506;customer18;smartphone;7;north-east;s6
-t507;customer11;notebook;10;central;s5
-t508;customer13;smartwatch;5;east;s3
-t509;customer28;e-reader;6;central;s5
-t510;customer24;blender;10;north-west;s8
-t511;customer17;highlighter;4;west;s4
-t512;customer23;headphones;9;south-east;s7
-t513;customer7;notebook;6;north-west;s8
-t514;customer12;calculator;7;north-east;s6
-t515;customer18;tablet;6;north-east;s6
-t516;customer19;toaster;6;north-west;s8
-t517;customer20;smartwatch;5;south;s2
-t518;customer18;headphones;3;north-east;s6
-t519;customer30;tablet;4;south-west;s9
-t520;customer16;smartwatch;10;east;s3
-t521;customer1;highlighter;4;south-east;s7
-t522;customer4;vacuum cleaner;4;south-west;s9
-t523;customer24;calculator;5;north-west;s8
-t524;customer17;electric kettle;2;west;s4
-t525;customer29;headphones;10;south-east;s7
-t526;customer9;laptop;1;central;s5
-t527;customer1;hair dryer;4;south-east;s7
-t528;customer3;portable speaker;4;south;s2
-t529;customer20;toaster;2;south;s2
-t530;customer15;smartwatch;6;south-east;s7
-t531;customer29;drone;7;south-east;s7
-t532;customer6;coffee machine;5;south;s2
-t533;customer18;stapler;3;north-east;s6
-t534;customer1;highlighter;2;south-east;s7
-t535;customer28;coffee machine;2;central;s5
-t536;customer25;air purifier;1;south-east;s7
-t537;customer6;e-reader;4;south;s2
-t538;customer15;air purifier;1;south-east;s7
-t539;customer28;calculator;1;central;s5
-t540;customer6;whiteboard marker;4;south;s2
-t541;customer11;smartphone;6;central;s5
-t542;customer6;toaster;9;south;s2
-t543;customer15;envelope;10;south-east;s7
-t544;customer10;paper clips;3;south-east;s7
-t545;customer9;desk lamp;3;central;s5
-t546;customer11;calculator;6;central;s5
-t547;customer5;electric kettle;6;central;s5
-t548;customer9;blender;6;central;s5
-t549;customer25;smartphone;9;south-east;s7
-t550;customer7;stapler;10;north-west;s8
-t551;customer7;smartwatch;10;north-west;s8
-t552;customer17;portable speaker;9;west;s4
-t553;customer16;headphones;2;east;s3
-t554;customer1;coffee machine;7;south-east;s7
-t555;customer25;notebook;7;south-east;s7
-t556;customer18;coffee machine;7;north-east;s6
-t557;customer22;highlighter;8;east;s3
-t558;customer23;smartphone;7;south-east;s7
-t559;customer11;vr headset;5;central;s5
-t560;customer21;paper clips;7;west;s4
-t561;customer5;air purifier;2;central;s5
-t562;customer29;headphones;1;south-east;s7
-t563;customer25;desk lamp;3;south-east;s7
-t564;customer14;fan;1;north-west;s8
-t565;customer7;hair dryer;3;north-west;s8
-t566;customer17;hair dryer;10;west;s4
-t567;customer17;pen set;10;west;s4
-t568;customer11;headphones;4;central;s5
-t569;customer16;stapler;10;east;s3
-t570;customer19;microwave;7;north-west;s8
-t571;customer21;vacuum cleaner;7;west;s4
-t572;customer1;desk lamp;6;south-east;s7
-t573;customer7;toaster;6;north-west;s8
-t574;customer9;envelope;7;central;s5
-t575;customer4;vacuum cleaner;9;south-west;s9
-t576;customer23;drone;1;south-east;s7
-t577;customer4;microwave;5;south-west;s9
-t578;customer5;whiteboard marker;9;central;s5
-t579;customer23;camera;10;south-east;s7
-t580;customer25;paper clips;7;south-east;s7
-t581;customer23;notebook;8;south-east;s7
-t582;customer5;e-reader;3;central;s5
-t583;customer18;e-reader;1;north-east;s6
-t584;customer24;vacuum cleaner;10;north-west;s8
-t585;customer24;hair dryer;3;north-west;s8
-t586;customer29;microwave;6;south-east;s7
-t587;customer18;paper clips;2;north-east;s6
-t588;customer24;desk organizer;5;north-west;s8
-t589;customer21;tablet;3;west;s4
-t590;customer18;stapler;7;north-east;s6
-t591;customer9;headphones;9;central;s5
-t592;customer17;smartwatch;4;west;s4
-t593;customer28;stapler;9;central;s5
-t594;customer20;whiteboard marker;9;south;s2
-t595;customer25;blender;10;south-east;s7
-t596;customer8;desk lamp;8;west;s4
-t597;customer10;portable speaker;8;south-east;s7
-t598;customer7;smartwatch;1;north-west;s8
-t599;customer3;toaster;4;south;s2
-t600;customer1;smartwatch;1;south-east;s7
-t601;customer7;highlighter;6;north-west;s8
-t602;customer3;hair dryer;3;south;s2
-t603;customer6;portable speaker;7;south;s2
-t604;customer26;fan;1;north;s1
-t605;customer18;hair dryer;4;north-east;s6
-t606;customer6;microwave;7;south;s2
-t607;customer10;highlighter;1;south-east;s7
-t608;customer14;microwave;8;north-west;s8
-t609;customer18;toaster;6;north-east;s6
-t610;customer1;drone;9;south-east;s7
-t611;customer18;envelope;4;north-east;s6
-t612;customer24;laptop;4;north-west;s8
-t613;customer10;e-reader;3;south-east;s7
-t614;customer25;microwave;10;south-east;s7
-t615;customer8;whiteboard marker;8;west;s4
-t616;customer22;vr headset;5;east;s3
-t617;customer2;smartwatch;4;north-east;s6
-t618;customer15;envelope;6;south-east;s7
-t619;customer28;calculator;3;central;s5
-t620;customer15;headphones;7;south-east;s7
-t621;customer11;electric kettle;3;central;s5
-t622;customer9;headphones;4;central;s5
-t623;customer17;envelope;4;west;s4
-t624;customer15;paper clips;6;south-east;s7
-t625;customer25;pen set;5;south-east;s7
-t626;customer1;tablet;10;south-east;s7
-t627;customer20;laptop;8;south;s2
-t628;customer3;notebook;5;south;s2
-t629;customer20;camera;6;south;s2
-t630;customer20;pen set;8;south;s2
-t631;customer13;desk organizer;7;east;s3
-t632;customer24;drone;1;north-west;s8
-t633;customer16;notebook;3;east;s3
-t634;customer3;drone;5;south;s2
-t635;customer2;desk lamp;5;north-east;s6
-t636;customer23;smartphone;2;south-east;s7
-t637;customer28;desk lamp;7;central;s5
-t638;customer11;headphones;5;central;s5
-t639;customer11;desk lamp;9;central;s5
-t640;customer24;electric kettle;10;north-west;s8
-t641;customer28;portable speaker;8;central;s5
-t642;customer1;vacuum cleaner;4;south-east;s7
-t643;customer14;desk organizer;4;north-west;s8
-t644;customer20;whiteboard marker;6;south;s2
-t645;customer13;drone;2;east;s3
-t646;customer9;whiteboard marker;7;central;s5
-t647;customer16;whiteboard marker;10;east;s3
-t648;customer25;smartwatch;2;south-east;s7
-t649;customer16;notebook;5;east;s3
-t650;customer15;smartwatch;5;south-east;s7
-t651;customer13;vr headset;10;east;s3
-t652;customer1;highlighter;4;south-east;s7
-t653;customer10;pen set;1;south-east;s7
-t654;customer10;air purifier;3;south-east;s7
-t655;customer20;vacuum cleaner;7;south;s2
-t656;customer13;notebook;4;east;s3
-t657;customer27;smartwatch;6;central;s5
-t658;customer27;laptop;1;central;s5
-t659;customer3;headphones;9;south;s2
-t660;customer19;hair dryer;10;north-west;s8
-t661;customer14;e-reader;8;north-west;s8
-t662;customer2;highlighter;5;north-east;s6
-t663;customer30;e-reader;1;south-west;s9
-t664;customer1;paper clips;3;south-east;s7
-t665;customer26;desk organizer;9;north;s1
-t666;customer11;binder;9;central;s5
-t667;customer22;blender;3;east;s3
-t668;customer18;envelope;5;north-east;s6
-t669;customer19;desk organizer;1;north-west;s8
-t670;customer25;desk lamp;4;south-east;s7
-t671;customer29;vacuum cleaner;5;south-east;s7
-t672;customer1;highlighter;5;south-east;s7
-t673;customer11;calculator;6;central;s5
-t674;customer16;tablet;6;east;s3
-t675;customer18;pen set;8;north-east;s6
-t676;customer4;coffee machine;4;south-west;s9
-t677;customer10;highlighter;3;south-east;s7
-t678;customer1;camera;1;south-east;s7
-t679;customer18;electric kettle;2;north-east;s6
-t680;customer15;pen set;2;south-east;s7
-t681;customer8;smartwatch;6;west;s4
-t682;customer27;blender;5;central;s5
-t683;customer30;electric kettle;2;south-west;s9
-t684;customer22;stapler;10;east;s3
-t685;customer3;camera;3;south;s2
-t686;customer18;laptop;5;north-east;s6
-t687;customer8;air purifier;3;west;s4
-t688;customer9;fan;2;central;s5
-t689;customer6;blender;9;south;s2
-t690;customer8;electric kettle;10;west;s4
-t691;customer15;desk organizer;9;south-east;s7
-t692;customer24;whiteboard marker;10;north-west;s8
-t693;customer6;electric kettle;7;south;s2
-t694;customer27;notebook;10;central;s5
-t695;customer18;camera;3;north-east;s6
-t696;customer24;drone;5;north-west;s8
-t697;customer4;paper clips;8;south-west;s9
-t698;customer15;binder;1;south-east;s7
-t699;customer24;laptop;4;north-west;s8
-t700;customer15;highlighter;7;south-east;s7
-t701;customer8;binder;9;west;s4
-t702;customer11;coffee machine;3;central;s5
-t703;customer23;pen set;7;south-east;s7
-t704;customer2;fan;8;north-east;s6
-t705;customer25;blender;2;south-east;s7
-t706;customer13;microwave;4;east;s3
-t707;customer13;vr headset;1;east;s3
-t708;customer26;laptop;4;north;s1
-t709;customer24;toaster;4;north-west;s8
-t710;customer11;camera;5;central;s5
-t711;customer5;electric kettle;3;central;s5
-t712;customer26;paper clips;10;north;s1
-t713;customer10;laptop;6;south-east;s7
-t714;customer21;blender;9;west;s4
-t715;customer28;toaster;6;central;s5
-t716;customer26;stapler;4;north;s1
-t717;customer19;highlighter;10;north-west;s8
-t718;customer25;vr headset;9;south-east;s7
-t719;customer27;hair dryer;2;central;s5
-t720;customer12;microwave;3;north-east;s6
-t721;customer21;air purifier;8;west;s4
-t722;customer19;whiteboard marker;2;north-west;s8
-t723;customer10;highlighter;6;south-east;s7
-t724;customer15;stapler;4;south-east;s7
-t725;customer18;vr headset;10;north-east;s6
-t726;customer27;binder;2;central;s5
-t727;customer24;notebook;2;north-west;s8
-t728;customer12;smartwatch;3;north-east;s6
-t729;customer19;envelope;8;north-west;s8
-t730;customer23;envelope;2;south-east;s7
-t731;customer10;calculator;10;south-east;s7
-t732;customer29;portable speaker;2;south-east;s7
-t733;customer6;toaster;4;south;s2
-t734;customer18;coffee machine;1;north-east;s6
-t735;customer29;camera;7;south-east;s7
-t736;customer15;toaster;3;south-east;s7
-t737;customer6;e-reader;8;south;s2
-t738;customer6;electric kettle;1;south;s2
-t739;customer18;stapler;5;north-east;s6
-t740;customer4;headphones;10;south-west;s9
-t741;customer15;desk lamp;7;south-east;s7
-t742;customer19;e-reader;7;north-west;s8
-t743;customer14;laptop;9;north-west;s8
-t744;customer13;smartwatch;1;east;s3
-t745;customer7;camera;5;north-west;s8
-t746;customer7;desk lamp;10;north-west;s8
-t747;customer30;portable speaker;2;south-west;s9
-t748;customer1;electric kettle;2;south-east;s7
-t749;customer8;blender;7;west;s4
-t750;customer26;stapler;1;north;s1
-t751;customer4;highlighter;1;south-west;s9
-t752;customer18;toaster;5;north-east;s6
-t753;customer20;smartwatch;10;south;s2
-t754;customer27;whiteboard marker;5;central;s5
-t755;customer11;electric kettle;9;central;s5
-t756;customer8;whiteboard marker;3;west;s4
-t757;customer17;stapler;4;west;s4
-t758;customer14;calculator;3;north-west;s8
-t759;customer5;blender;3;central;s5
-t760;customer24;envelope;1;north-west;s8
-t761;customer4;notebook;10;south-west;s9
-t762;customer21;air purifier;4;west;s4
-t763;customer8;electric kettle;6;west;s4
-t764;customer19;microwave;2;north-west;s8
-t765;customer10;toaster;10;south-east;s7
-t766;customer6;notebook;7;south;s2
-t767;customer11;notebook;3;central;s5
-t768;customer28;binder;9;central;s5
-t769;customer18;paper clips;6;north-east;s6
-t770;customer3;stapler;10;south;s2
-t771;customer6;camera;2;south;s2
-t772;customer10;vr headset;8;south-east;s7
-t773;customer30;smartwatch;6;south-west;s9
-t774;customer16;smartwatch;10;east;s3
-t775;customer3;electric kettle;8;south;s2
-t776;customer27;smartwatch;5;central;s5
-t777;customer6;highlighter;4;south;s2
-t778;customer29;envelope;4;south-east;s7
-t779;customer26;e-reader;10;north;s1
-t780;customer3;desk lamp;8;south;s2
-t781;customer25;tablet;4;south-east;s7
-t782;customer1;binder;5;south-east;s7
-t783;customer4;whiteboard marker;8;south-west;s9
-t784;customer10;envelope;6;south-east;s7
-t785;customer19;smartwatch;9;north-west;s8
-t786;customer17;drone;4;west;s4
-t787;customer4;envelope;6;south-west;s9
-t788;customer17;stapler;10;west;s4
-t789;customer10;laptop;7;south-east;s7
-t790;customer9;highlighter;3;central;s5
-t791;customer20;air purifier;4;south;s2
-t792;customer10;coffee machine;8;south-east;s7
-t793;customer27;drone;9;central;s5
-t794;customer21;blender;10;west;s4
-t795;customer23;stapler;2;south-east;s7
-t796;customer27;camera;7;central;s5
-t797;customer2;desk organizer;4;north-east;s6
-t798;customer2;tablet;10;north-east;s6
-t799;customer18;headphones;3;north-east;s6
-t800;customer1;tablet;4;south-east;s7
-t801;customer25;desk organizer;7;south-east;s7
-t802;customer15;hair dryer;7;south-east;s7
-t803;customer1;air purifier;6;south-east;s7
-t804;customer3;air purifier;5;south;s2
-t805;customer22;paper clips;5;east;s3
-t806;customer19;microwave;3;north-west;s8
-t807;customer21;stapler;5;west;s4
-t808;customer7;electric kettle;6;north-west;s8
-t809;customer15;laptop;9;south-east;s7
-t810;customer8;toaster;3;west;s4
-t811;customer22;whiteboard marker;3;east;s3
-t812;customer18;fan;5;north-east;s6
-t813;customer10;headphones;4;south-east;s7
-t814;customer11;paper clips;10;central;s5
-t815;customer6;toaster;4;south;s2
-t816;customer5;envelope;4;central;s5
-t817;customer19;electric kettle;5;north-west;s8
-t818;customer21;highlighter;4;west;s4
-t819;customer3;notebook;10;south;s2
-t820;customer23;desk organizer;5;south-east;s7
-t821;customer24;pen set;9;north-west;s8
-t822;customer4;tablet;6;south-west;s9
-t823;customer29;fan;7;south-east;s7
-t824;customer2;binder;5;north-east;s6
-t825;customer8;portable speaker;4;west;s4
-t826;customer10;binder;9;south-east;s7
-t827;customer20;toaster;7;south;s2
-t828;customer15;e-reader;4;south-east;s7
-t829;customer1;notebook;1;south-east;s7
-t830;customer26;portable speaker;3;north;s1
-t831;customer2;tablet;2;north-east;s6
-t832;customer14;portable speaker;3;north-west;s8
-t833;customer3;microwave;1;south;s2
-t834;customer6;drone;9;south;s2
-t835;customer5;vr headset;7;central;s5
-t836;customer15;binder;2;south-east;s7
-t837;customer1;hair dryer;10;south-east;s7
-t838;customer2;drone;7;north-east;s6
-t839;customer28;fan;7;central;s5
-t840;customer1;vr headset;4;south-east;s7
-t841;customer12;envelope;9;north-east;s6
-t842;customer15;hair dryer;5;south-east;s7
-t843;customer24;air purifier;4;north-west;s8
-t844;customer20;tablet;1;south;s2
-t845;customer14;tablet;7;north-west;s8
-t846;customer20;vacuum cleaner;7;south;s2
-t847;customer19;blender;8;north-west;s8
-t848;customer19;microwave;7;north-west;s8
-t849;customer25;pen set;6;south-east;s7
-t850;customer20;desk organizer;1;south;s2
-t851;customer21;coffee machine;5;west;s4
-t852;customer3;highlighter;3;south;s2
-t853;customer13;desk organizer;5;east;s3
-t854;customer1;camera;1;south-east;s7
-t855;customer22;blender;5;east;s3
-t856;customer20;whiteboard marker;9;south;s2
-t857;customer28;smartphone;3;central;s5
-t858;customer2;desk organizer;2;north-east;s6
-t859;customer7;laptop;5;north-west;s8
-t860;customer5;e-reader;8;central;s5
-t861;customer20;microwave;4;south;s2
-t862;customer24;whiteboard marker;10;north-west;s8
-t863;customer2;blender;2;north-east;s6
-t864;customer20;stapler;3;south;s2
-t865;customer9;hair dryer;1;central;s5
-t866;customer17;drone;7;west;s4
-t867;customer16;headphones;8;east;s3
-t868;customer7;hair dryer;2;north-west;s8
-t869;customer28;laptop;8;central;s5
-t870;customer30;calculator;9;south-west;s9
-t871;customer16;highlighter;8;east;s3
-t872;customer2;laptop;2;north-east;s6
-t873;customer21;vr headset;5;west;s4
-t874;customer29;paper clips;7;south-east;s7
-t875;customer21;microwave;8;west;s4
-t876;customer21;smartwatch;4;west;s4
-t877;customer23;calculator;6;south-east;s7
-t878;customer24;notebook;6;north-west;s8
-t879;customer7;fan;10;north-west;s8
-t880;customer18;drone;7;north-east;s6
-t881;customer16;desk lamp;6;east;s3
-t882;customer30;coffee machine;6;south-west;s9
-t883;customer5;whiteboard marker;10;central;s5
-t884;customer8;hair dryer;2;west;s4
-t885;customer11;desk organizer;6;central;s5
-t886;customer18;coffee machine;7;north-east;s6
-t887;customer5;drone;9;central;s5
-t888;customer29;binder;4;south-east;s7
-t889;customer10;desk organizer;3;south-east;s7
-t890;customer6;tablet;5;south;s2
-t891;customer20;vacuum cleaner;8;south;s2
-t892;customer9;calculator;2;central;s5
-t893;customer26;highlighter;7;north;s1
-t894;customer18;highlighter;9;north-east;s6
-t895;customer21;smartphone;6;west;s4
-t896;customer6;e-reader;4;south;s2
-t897;customer27;paper clips;7;central;s5
-t898;customer24;smartphone;1;north-west;s8
-t899;customer21;microwave;5;west;s4
-t900;customer21;microwave;5;west;s4
-t901;customer7;whiteboard marker;6;north-west;s8
-t902;customer6;desk organizer;9;south;s2
-t903;customer13;vr headset;6;east;s3
-t904;customer7;desk lamp;5;north-west;s8
-t905;customer9;laptop;7;central;s5
-t906;customer26;portable speaker;8;north;s1
-t907;customer13;envelope;1;east;s3
-t908;customer17;notebook;10;west;s4
-t909;customer6;desk lamp;2;south;s2
-t910;customer25;vr headset;8;south-east;s7
-t911;customer24;headphones;9;north-west;s8
-t912;customer28;coffee machine;9;central;s5
-t913;customer30;whiteboard marker;6;south-west;s9
-t914;customer1;camera;10;south-east;s7
-t915;customer2;fan;9;north-east;s6
-t916;customer27;fan;5;central;s5
-t917;customer21;desk lamp;5;west;s4
-t918;customer3;electric kettle;2;south;s2
-t919;customer29;vr headset;5;south-east;s7
-t920;customer16;pen set;10;east;s3
-t921;customer21;highlighter;4;west;s4
-t922;customer24;smartwatch;8;north-west;s8
-t923;customer9;smartphone;6;central;s5
-t924;customer20;binder;2;south;s2
-t925;customer2;e-reader;5;north-east;s6
-t926;customer9;smartwatch;8;central;s5
-t927;customer25;e-reader;2;south-east;s7
-t928;customer20;microwave;3;south;s2
-t929;customer2;electric kettle;6;north-east;s6
-t930;customer4;binder;4;south-west;s9
-t931;customer16;smartwatch;10;east;s3
-t932;customer23;vr headset;5;south-east;s7
-t933;customer22;toaster;8;east;s3
-t934;customer25;toaster;9;south-east;s7
-t935;customer25;tablet;7;south-east;s7
-t936;customer23;pen set;5;south-east;s7
-t937;customer15;desk lamp;10;south-east;s7
-t938;customer26;desk organizer;10;north;s1
-t939;customer28;e-reader;1;central;s5
-t940;customer25;camera;7;south-east;s7
-t941;customer18;electric kettle;2;north-east;s6
-t942;customer1;portable speaker;4;south-east;s7
-t943;customer9;highlighter;4;central;s5
-t944;customer29;notebook;4;south-east;s7
-t945;customer7;camera;6;north-west;s8
-t946;customer16;highlighter;5;east;s3
-t947;customer3;desk organizer;2;south;s2
-t948;customer19;e-reader;3;north-west;s8
-t949;customer27;fan;6;central;s5
-t950;customer28;vr headset;6;central;s5
-t951;customer8;laptop;9;west;s4
-t952;customer22;notebook;8;east;s3
-t953;customer14;smartwatch;2;north-west;s8
-t954;customer25;highlighter;8;south-east;s7
-t955;customer26;binder;4;north;s1
-t956;customer28;toaster;2;central;s5
-t957;customer25;tablet;1;south-east;s7
-t958;customer24;vr headset;1;north-west;s8
-t959;customer5;headphones;1;central;s5
-t960;customer18;drone;8;north-east;s6
-t961;customer1;binder;7;south-east;s7
-t962;customer25;vr headset;6;south-east;s7
-t963;customer3;vacuum cleaner;1;south;s2
-t964;customer6;stapler;5;south;s2
-t965;customer26;notebook;10;north;s1
-t966;customer18;calculator;7;north-east;s6
-t967;customer26;coffee machine;8;north;s1
-t968;customer3;calculator;9;south;s2
-t969;customer11;stapler;5;central;s5
-t970;customer4;pen set;10;south-west;s9
-t971;customer29;drone;9;south-east;s7
-t972;customer19;paper clips;3;north-west;s8
-t973;customer28;whiteboard marker;4;central;s5
-t974;customer3;toaster;10;south;s2
-t975;customer7;desk lamp;3;north-west;s8
-t976;customer6;envelope;8;south;s2
-t977;customer24;laptop;10;north-west;s8
-t978;customer23;calculator;1;south-east;s7
-t979;customer3;vr headset;3;south;s2
-t980;customer2;electric kettle;6;north-east;s6
-t981;customer14;toaster;9;north-west;s8
-t982;customer2;envelope;7;north-east;s6
-t983;customer19;blender;4;north-west;s8
-t984;customer26;whiteboard marker;4;north;s1
-t985;customer16;tablet;10;east;s3
-t986;customer4;blender;5;south-west;s9
-t987;customer4;paper clips;9;south-west;s9
-t988;customer5;hair dryer;3;central;s5
-t989;customer17;binder;8;west;s4
-t990;customer15;binder;3;south-east;s7
-t991;customer19;microwave;3;north-west;s8
-t992;customer27;laptop;3;central;s5
-t993;customer15;portable speaker;2;south-east;s7
-t994;customer24;smartwatch;3;north-west;s8
-t995;customer30;pen set;5;south-west;s9
-t996;customer6;headphones;8;south;s2
-t997;customer20;air purifier;6;south;s2
-t998;customer12;laptop;3;north-east;s6
-t999;customer13;hair dryer;2;east;s3
-t1000;customer23;vr headset;9;south-east;s7
+id_transaction;name_customer;name_product;quantity_sold;date_sale;category_product;unit_price;transaction_amount;region;id_seller
+t1;customer8;tablet;2;2023-01-03;electronics;366.3;732.6;west;s4
+t2;customer6;smartwatch;7;2023-01-01;electronics;133.49;934.43;south;s2
+t3;customer10;microwave;3;2023-10-10;home appliances;409.2;1227.6;south-east;s7
+t4;customer30;coffee machine;9;2023-01-10;home appliances;488.53;4396.77;south-west;s9
+t5;customer22;camera;3;2023-07-04;electronics;180.47;541.41;east;s3
+t6;customer4;e-reader;9;2023-05-19;electronics;124.11;1116.99;south-west;s9
+t7;customer7;noise cancelling headphones;8;2023-01-21;electronics;398.86;3190.88;north-west;s8
+t8;customer12;laptop;7;2023-06-09;electronics;286.36;2004.52;north-east;s6
+t9;customer3;smartwatch;4;2023-03-02;electronics;133.49;533.96;south;s2
+t10;customer13;electric grill;5;2023-09-08;home appliances;269.68;1348.4;east;s3
+t11;customer18;grill;5;2023-04-29;garden;490.4;2452.0;north-east;s6
+t12;customer13;noise cancelling headphones;6;2023-09-05;electronics;398.86;2393.16;east;s3
+t13;customer11;vacuum cleaner;8;2023-01-13;home appliances;321.36;2570.88;central;s5
+t14;customer28;blender;10;2023-09-15;home appliances;448.75;4487.5;central;s5
+t15;customer18;microwave;5;2023-10-07;home appliances;409.2;2046.0;north-east;s6
+t16;customer13;hair dryer;4;2023-10-23;home appliances;466.13;1864.52;east;s3
+t17;customer21;electric kettle;6;2023-02-03;home appliances;386.45;2318.7;west;s4
+t18;customer29;hedge trimmer;2;2023-03-27;garden;115.83;231.66;south-east;s7
+t19;customer28;bird feeder;4;2023-02-01;garden;259.8;1039.2;central;s5
+t20;customer5;camera;6;2023-11-18;electronics;180.47;1082.82;central;s5
+t21;customer18;tablet;2;2023-02-03;electronics;366.3;732.6;north-east;s6
+t22;customer23;toaster;9;2023-03-12;home appliances;472.73;4254.57;south-east;s7
+t23;customer26;hair dryer;9;2023-10-11;home appliances;466.13;4195.17;north;s1
+t24;customer15;laptop;8;2023-12-16;electronics;286.36;2290.88;south-east;s7
+t25;customer24;microwave;4;2023-06-17;home appliances;409.2;1636.8;north-west;s8
+t26;customer2;headphones;2;2023-11-06;electronics;486.39;972.78;north-east;s6
+t27;customer12;leaf blower;9;2023-01-17;garden;203.1;1827.9;north-east;s6
+t28;customer4;vr headset;2;2023-07-03;electronics;421.47;842.94;south-west;s9
+t29;customer28;hair dryer;9;2023-07-05;home appliances;466.13;4195.17;central;s5
+t30;customer15;slow cooker;6;2023-08-23;home appliances;142.42;854.52;south-east;s7
+t31;customer9;electric kettle;5;2023-05-07;home appliances;386.45;1932.25;central;s5
+t32;customer22;garden fork;5;2023-04-12;garden;445.02;2225.1;east;s3
+t33;customer6;camera;10;2023-01-17;electronics;180.47;1804.7;south;s2
+t34;customer13;portable gaming system;7;2023-02-05;electronics;162.18;1135.26;east;s3
+t35;customer23;e-reader;1;2023-10-10;electronics;124.11;124.11;south-east;s7
+t36;customer4;rain barrel;10;2023-02-22;garden;474.58;4745.8;south-west;s9
+t37;customer5;smartphone;8;2023-10-29;electronics;443.38;3547.04;central;s5
+t38;customer2;air purifier;7;2023-10-11;home appliances;289.79;2028.53;north-east;s6
+t39;customer3;air purifier;5;2023-12-15;home appliances;289.79;1448.95;south;s2
+t40;customer11;hair dryer;3;2023-05-16;home appliances;466.13;1398.39;central;s5
+t41;customer18;headphones;5;2023-01-31;electronics;486.39;2431.95;north-east;s6
+t42;customer6;e-reader;10;2023-02-11;electronics;124.11;1241.1;south;s2
+t43;customer14;drone;9;2023-12-27;electronics;373.0;3357.0;north-west;s8
+t44;customer9;smartphone;9;2023-06-28;electronics;443.38;3990.42;central;s5
+t45;customer2;coffee machine;7;2023-09-11;home appliances;488.53;3419.71;north-east;s6
+t46;customer2;blender;5;2023-09-20;home appliances;448.75;2243.75;north-east;s6
+t47;customer25;tablet;8;2023-05-30;electronics;366.3;2930.4;south-east;s7
+t48;customer11;outdoor fire pit;1;2023-06-30;garden;298.7;298.7;central;s5
+t49;customer13;shovel;4;2023-11-20;garden;119.01;476.04;east;s3
+t50;customer13;laptop;7;2023-11-03;electronics;286.36;2004.52;east;s3
+t51;customer29;smartphone;4;2023-01-12;electronics;443.38;1773.52;south-east;s7
+t52;customer23;headphones;8;2023-07-16;electronics;486.39;3891.12;south-east;s7
+t53;customer9;electric kettle;4;2023-12-25;home appliances;386.45;1545.8;central;s5
+t54;customer19;vacuum cleaner;9;2023-07-26;home appliances;321.36;2892.24;north-west;s8
+t55;customer2;laptop;3;2023-11-28;electronics;286.36;859.08;north-east;s6
+t56;customer4;electric kettle;9;2023-11-13;home appliances;386.45;3478.05;south-west;s9
+t57;customer24;bread maker;9;2023-04-09;home appliances;97.27;875.43;north-west;s8
+t58;customer14;humidifier;4;2023-07-06;home appliances;267.02;1068.08;north-west;s8
+t59;customer9;air purifier;7;2023-07-23;home appliances;289.79;2028.53;central;s5
+t60;customer9;game console;1;2023-06-25;electronics;172.31;172.31;central;s5
+t61;customer24;toaster;9;2023-12-27;home appliances;472.73;4254.57;north-west;s8
+t62;customer21;tablet;2;2023-04-09;electronics;366.3;732.6;west;s4
+t63;customer28;vr headset;2;2023-01-25;electronics;421.47;842.94;central;s5
+t64;customer27;patio umbrella;1;2023-02-24;garden;391.96;391.96;central;s5
+t65;customer2;smartphone;2;2023-05-18;electronics;443.38;886.76;north-east;s6
+t66;customer7;smartwatch;9;2023-01-21;electronics;133.49;1201.41;north-west;s8
+t67;customer8;coffee machine;4;2023-09-21;home appliances;488.53;1954.12;west;s4
+t68;customer23;bread maker;8;2023-05-20;home appliances;97.27;778.16;south-east;s7
+t69;customer24;refrigerator;5;2023-03-29;home appliances;177.97;889.85;north-west;s8
+t70;customer21;garden fork;6;2023-01-30;garden;445.02;2670.12;west;s4
+t71;customer11;garden bench;2;2023-10-21;garden;158.28;316.56;central;s5
+t72;customer3;lawn mower;2;2023-11-10;garden;319.8;639.6;south;s2
+t73;customer15;drone;1;2023-10-03;electronics;373.0;373.0;south-east;s7
+t74;customer27;coffee machine;7;2023-06-27;home appliances;488.53;3419.71;central;s5
+t75;customer15;tablet;5;2023-11-05;electronics;366.3;1831.5;south-east;s7
+t76;customer9;bread maker;5;2023-09-02;home appliances;97.27;486.35;central;s5
+t77;customer1;blender;9;2023-04-02;home appliances;448.75;4038.75;south-east;s7
+t78;customer19;laptop;6;2023-11-21;electronics;286.36;1718.16;north-west;s8
+t79;customer13;microwave;3;2023-06-23;home appliances;409.2;1227.6;east;s3
+t80;customer18;e-reader;4;2023-05-02;electronics;124.11;496.44;north-east;s6
+t81;customer14;digital camera;8;2023-08-31;electronics;106.29;850.32;north-west;s8
+t82;customer23;rain barrel;7;2023-04-28;garden;474.58;3322.06;south-east;s7
+t83;customer10;air purifier;9;2023-11-06;home appliances;289.79;2608.11;south-east;s7
+t84;customer30;camera;3;2023-04-09;electronics;180.47;541.41;south-west;s9
+t85;customer22;tablet;1;2023-07-29;electronics;366.3;366.3;east;s3
+t86;customer3;wireless charger;10;2023-06-22;electronics;347.48;3474.8;south;s2
+t87;customer13;tablet;8;2023-03-30;electronics;366.3;2930.4;east;s3
+t88;customer1;electric kettle;3;2023-05-17;home appliances;386.45;1159.35;south-east;s7
+t89;customer17;stand mixer;7;2023-08-03;home appliances;308.99;2162.93;west;s4
+t90;customer23;digital camera;9;2023-03-11;electronics;106.29;956.61;south-east;s7
+t91;customer27;vacuum cleaner;4;2023-09-27;home appliances;321.36;1285.44;central;s5
+t92;customer22;bread maker;10;2023-11-19;home appliances;97.27;972.7;east;s3
+t93;customer26;tablet;9;2023-06-11;electronics;366.3;3296.7;north;s1
+t94;customer15;vr headset;8;2023-08-27;electronics;421.47;3371.76;south-east;s7
+t95;customer2;sprinkler;5;2023-06-02;garden;252.06;1260.3;north-east;s6
+t96;customer10;smartphone;10;2023-11-25;electronics;443.38;4433.8;south-east;s7
+t97;customer27;smartwatch;7;2023-03-20;electronics;133.49;934.43;central;s5
+t98;customer29;electric kettle;10;2023-08-13;home appliances;386.45;3864.5;south-east;s7
+t99;customer12;dishwasher;7;2023-09-13;home appliances;192.46;1347.22;north-east;s6
+t100;customer21;sprinkler;4;2023-11-23;garden;252.06;1008.24;west;s4
+t101;customer5;drone;1;2023-12-19;electronics;373.0;373.0;central;s5
+t102;customer16;drone;1;2023-10-31;electronics;373.0;373.0;east;s3
+t103;customer26;grill;3;2023-11-26;garden;490.4;1471.2;north;s1
+t104;customer29;wheelbarrow;2;2023-05-01;garden;197.72;395.44;south-east;s7
+t105;customer19;vr headset;1;2023-05-13;electronics;421.47;421.47;north-west;s8
+t106;customer27;electric grill;5;2023-09-05;home appliances;269.68;1348.4;central;s5
+t107;customer14;laptop;2;2023-09-10;electronics;286.36;572.72;north-west;s8
+t108;customer27;smartwatch;4;2023-05-22;electronics;133.49;533.96;central;s5
+t109;customer2;drone;6;2023-11-01;electronics;373.0;2238.0;north-east;s6
+t110;customer25;humidifier;6;2023-10-18;home appliances;267.02;1602.12;south-east;s7
+t111;customer10;e-reader;5;2023-05-23;electronics;124.11;620.55;south-east;s7
+t112;customer3;camera;3;2023-09-02;electronics;180.47;541.41;south;s2
+t113;customer3;smartphone;5;2023-09-09;electronics;443.38;2216.9;south;s2
+t114;customer7;toaster;2;2023-06-15;home appliances;472.73;945.46;north-west;s8
+t115;customer17;coffee machine;4;2023-08-16;home appliances;488.53;1954.12;west;s4
+t116;customer14;toaster;8;2023-08-21;home appliances;472.73;3781.84;north-west;s8
+t117;customer9;stand mixer;7;2023-01-03;home appliances;308.99;2162.93;central;s5
+t118;customer18;headphones;6;2023-04-01;electronics;486.39;2918.34;north-east;s6
+t119;customer26;washing machine;10;2023-11-27;home appliances;175.81;1758.1;north;s1
+t120;customer11;headphones;3;2023-03-16;electronics;486.39;1459.17;central;s5
+t121;customer21;blender;8;2023-10-26;home appliances;448.75;3590.0;west;s4
+t122;customer3;garden sculpture;4;2023-12-13;garden;174.01;696.04;south;s2
+t123;customer24;air purifier;5;2023-12-19;home appliances;289.79;1448.95;north-west;s8
+t124;customer2;vacuum cleaner;8;2023-12-17;home appliances;321.36;2570.88;north-east;s6
+t125;customer9;air purifier;8;2023-02-20;home appliances;289.79;2318.32;central;s5
+t126;customer9;dishwasher;3;2023-06-15;home appliances;192.46;577.38;central;s5
+t127;customer17;smartphone;5;2023-08-16;electronics;443.38;2216.9;west;s4
+t128;customer12;toaster;9;2023-09-15;home appliances;472.73;4254.57;north-east;s6
+t129;customer9;electric kettle;5;2023-10-24;home appliances;386.45;1932.25;central;s5
+t130;customer9;blender;1;2023-02-09;home appliances;448.75;448.75;central;s5
+t131;customer8;headphones;3;2023-08-26;electronics;486.39;1459.17;west;s4
+t132;customer8;microwave;7;2023-07-02;home appliances;409.2;2864.4;west;s4
+t133;customer9;shovel;2;2023-06-20;garden;119.01;238.02;central;s5
+t134;customer2;toaster;8;2023-11-22;home appliances;472.73;3781.84;north-east;s6
+t135;customer5;toaster;10;2023-09-11;home appliances;472.73;4727.3;central;s5
+t136;customer13;electric kettle;2;2023-11-12;home appliances;386.45;772.9;east;s3
+t137;customer21;stand mixer;10;2023-12-28;home appliances;308.99;3089.9;west;s4
+t138;customer19;toaster;10;2023-07-13;home appliances;472.73;4727.3;north-west;s8
+t139;customer26;headphones;7;2023-02-09;electronics;486.39;3404.73;north;s1
+t140;customer20;hair dryer;3;2023-06-11;home appliances;466.13;1398.39;south;s2
+t141;customer28;smartwatch;10;2023-01-29;electronics;133.49;1334.9;central;s5
+t142;customer20;grill;1;2023-01-03;garden;490.4;490.4;south;s2
+t143;customer12;bread maker;1;2023-11-01;home appliances;97.27;97.27;north-east;s6
+t144;customer27;garden fork;1;2023-12-08;garden;445.02;445.02;central;s5
+t145;customer2;drone;3;2023-03-19;electronics;373.0;1119.0;north-east;s6
+t146;customer3;bread maker;7;2023-10-24;home appliances;97.27;680.89;south;s2
+t147;customer30;external hard drive;3;2023-03-19;electronics;303.42;910.26;south-west;s9
+t148;customer9;hedge trimmer;2;2023-07-20;garden;115.83;231.66;central;s5
+t149;customer13;electric kettle;9;2023-09-04;home appliances;386.45;3478.05;east;s3
+t150;customer27;shovel;1;2023-02-19;garden;119.01;119.01;central;s5
+t151;customer19;air purifier;1;2023-07-19;home appliances;289.79;289.79;north-west;s8
+t152;customer18;vr headset;6;2023-01-16;electronics;421.47;2528.82;north-east;s6
+t153;customer9;smartphone;7;2023-08-31;electronics;443.38;3103.66;central;s5
+t154;customer1;electric kettle;2;2023-02-26;home appliances;386.45;772.9;south-east;s7
+t155;customer24;tablet;3;2023-02-13;electronics;366.3;1098.9;north-west;s8
+t156;customer17;e-reader;6;2023-02-03;electronics;124.11;744.66;west;s4
+t157;customer1;smartphone;7;2023-07-23;electronics;443.38;3103.66;south-east;s7
+t158;customer16;garden fork;9;2023-05-09;garden;445.02;4005.18;east;s3
+t159;customer21;coffee machine;1;2023-10-22;home appliances;488.53;488.53;west;s4
+t160;customer8;e-reader;7;2023-07-05;electronics;124.11;868.77;west;s4
+t161;customer6;headphones;10;2023-05-09;electronics;486.39;4863.9;south;s2
+t162;customer30;air purifier;1;2023-04-11;home appliances;289.79;289.79;south-west;s9
+t163;customer11;laptop;9;2023-08-23;electronics;286.36;2577.24;central;s5
+t164;customer6;sprinkler;5;2023-04-24;garden;252.06;1260.3;south;s2
+t165;customer22;coffee machine;1;2023-10-24;home appliances;488.53;488.53;east;s3
+t166;customer9;electric toothbrush;8;2023-03-31;home appliances;320.83;2566.64;central;s5
+t167;customer8;lawn mower;4;2023-06-02;garden;319.8;1279.2;west;s4
+t168;customer4;laptop;4;2023-03-09;electronics;286.36;1145.44;south-west;s9
+t169;customer12;tablet;2;2023-12-23;electronics;366.3;732.6;north-east;s6
+t170;customer11;air purifier;3;2023-05-23;home appliances;289.79;869.37;central;s5
+t171;customer8;electric kettle;1;2023-09-26;home appliances;386.45;386.45;west;s4
+t172;customer10;air purifier;4;2023-02-22;home appliances;289.79;1159.16;south-east;s7
+t173;customer28;tablet;8;2023-06-05;electronics;366.3;2930.4;central;s5
+t174;customer26;smartphone;3;2023-12-05;electronics;443.38;1330.14;north;s1
+t175;customer19;garden fork;9;2023-12-10;garden;445.02;4005.18;north-west;s8
+t176;customer1;vacuum cleaner;10;2023-03-11;home appliances;321.36;3213.6;south-east;s7
+t177;customer14;hair dryer;8;2023-04-06;home appliances;466.13;3729.04;north-west;s8
+t178;customer10;headphones;10;2023-12-13;electronics;486.39;4863.9;south-east;s7
+t179;customer2;microwave;5;2023-09-27;home appliances;409.2;2046.0;north-east;s6
+t180;customer5;sprinkler;7;2023-02-04;garden;252.06;1764.42;central;s5
+t181;customer23;vr headset;4;2023-12-28;electronics;421.47;1685.88;south-east;s7
+t182;customer2;e-reader;3;2023-10-01;electronics;124.11;372.33;north-east;s6
+t183;customer10;humidifier;3;2023-06-21;home appliances;267.02;801.06;south-east;s7
+t184;customer14;tablet;7;2023-11-09;electronics;366.3;2564.1;north-west;s8
+t185;customer19;wheelbarrow;6;2023-04-05;garden;197.72;1186.32;north-west;s8
+t186;customer4;smartwatch;8;2023-05-10;electronics;133.49;1067.92;south-west;s9
+t187;customer22;hair dryer;1;2023-05-22;home appliances;466.13;466.13;east;s3
+t188;customer26;headphones;4;2023-01-17;electronics;486.39;1945.56;north;s1
+t189;customer12;lawn mower;8;2023-03-11;garden;319.8;2558.4;north-east;s6
+t190;customer2;smartphone;9;2023-03-07;electronics;443.38;3990.42;north-east;s6
+t191;customer8;bread maker;7;2023-02-21;home appliances;97.27;680.89;west;s4
+t192;customer17;blender;2;2023-10-30;home appliances;448.75;897.5;west;s4
+t193;customer13;grill;8;2023-11-10;garden;490.4;3923.2;east;s3
+t194;customer9;headphones;8;2023-07-29;electronics;486.39;3891.12;central;s5
+t195;customer15;coffee machine;6;2023-10-24;home appliances;488.53;2931.18;south-east;s7
+t196;customer18;toaster;10;2023-03-10;home appliances;472.73;4727.3;north-east;s6
+t197;customer10;air purifier;8;2023-11-23;home appliances;289.79;2318.32;south-east;s7
+t198;customer18;camera;6;2023-05-22;electronics;180.47;1082.82;north-east;s6
+t199;customer15;shovel;8;2023-01-09;garden;119.01;952.08;south-east;s7
+t200;customer11;toaster;2;2023-11-23;home appliances;472.73;945.46;central;s5
+t201;customer13;blender;6;2023-06-20;home appliances;448.75;2692.5;east;s3
+t202;customer13;rain barrel;10;2023-09-21;garden;474.58;4745.8;east;s3
+t203;customer6;blender;10;2023-06-30;home appliances;448.75;4487.5;south;s2
+t204;customer8;smart home hub;3;2023-09-08;electronics;436.04;1308.12;west;s4
+t205;customer30;portable gaming system;10;2023-01-20;electronics;162.18;1621.8;south-west;s9
+t206;customer3;microwave;9;2023-11-26;home appliances;409.2;3682.8;south;s2
+t207;customer30;microwave;8;2023-03-12;home appliances;409.2;3273.6;south-west;s9
+t208;customer18;hair dryer;5;2023-11-23;home appliances;466.13;2330.65;north-east;s6
+t209;customer9;air purifier;5;2023-05-14;home appliances;289.79;1448.95;central;s5
+t210;customer28;coffee machine;2;2023-11-07;home appliances;488.53;977.06;central;s5
+t211;customer7;hair dryer;7;2023-02-09;home appliances;466.13;3262.91;north-west;s8
+t212;customer24;microwave;5;2023-09-01;home appliances;409.2;2046.0;north-west;s8
+t213;customer28;hair dryer;2;2023-05-02;home appliances;466.13;932.26;central;s5
+t214;customer5;tablet;8;2023-07-06;electronics;366.3;2930.4;central;s5
+t215;customer18;e-reader;9;2023-09-06;electronics;124.11;1116.99;north-east;s6
+t216;customer29;vacuum cleaner;7;2023-04-16;home appliances;321.36;2249.52;south-east;s7
+t217;customer12;headphones;2;2023-04-05;electronics;486.39;972.78;north-east;s6
+t218;customer2;watering can;10;2023-11-23;garden;327.29;3272.9;north-east;s6
+t219;customer10;outdoor fire pit;1;2023-04-19;garden;298.7;298.7;south-east;s7
+t220;customer30;garden fork;1;2023-05-14;garden;445.02;445.02;south-west;s9
+t221;customer13;external hard drive;4;2023-12-26;electronics;303.42;1213.68;east;s3
+t222;customer23;vacuum cleaner;9;2023-06-11;home appliances;321.36;2892.24;south-east;s7
+t223;customer28;toaster;5;2023-06-26;home appliances;472.73;2363.65;central;s5
+t224;customer30;smartphone;10;2023-12-08;electronics;443.38;4433.8;south-west;s9
+t225;customer23;toaster;4;2023-09-02;home appliances;472.73;1890.92;south-east;s7
+t226;customer16;vacuum cleaner;8;2023-01-06;home appliances;321.36;2570.88;east;s3
+t227;customer23;smartphone;9;2023-11-14;electronics;443.38;3990.42;south-east;s7
+t228;customer18;tablet;4;2023-01-02;electronics;366.3;1465.2;north-east;s6
+t229;customer25;blender;7;2023-04-09;home appliances;448.75;3141.25;south-east;s7
+t230;customer10;hair dryer;6;2023-03-10;home appliances;466.13;2796.78;south-east;s7
+t231;customer10;leaf blower;8;2023-07-10;garden;203.1;1624.8;south-east;s7
+t232;customer13;hair dryer;8;2023-08-02;home appliances;466.13;3729.04;east;s3
+t233;customer23;game console;6;2023-12-02;electronics;172.31;1033.86;south-east;s7
+t234;customer20;noise cancelling headphones;4;2023-02-12;electronics;398.86;1595.44;south;s2
+t235;customer20;microwave;9;2023-09-24;home appliances;409.2;3682.8;south;s2
+t236;customer15;laptop;8;2023-02-24;electronics;286.36;2290.88;south-east;s7
+t237;customer14;hair dryer;7;2023-09-13;home appliances;466.13;3262.91;north-west;s8
+t238;customer10;headphones;3;2023-11-11;electronics;486.39;1459.17;south-east;s7
+t239;customer8;air purifier;6;2023-07-15;home appliances;289.79;1738.74;west;s4
+t240;customer8;tablet;3;2023-11-14;electronics;366.3;1098.9;west;s4
+t241;customer17;patio umbrella;2;2023-07-18;garden;391.96;783.92;west;s4
+t242;customer12;slow cooker;7;2023-06-24;home appliances;142.42;996.94;north-east;s6
+t243;customer25;pruning shears;5;2023-06-23;garden;182.53;912.65;south-east;s7
+t244;customer16;smartwatch;7;2023-07-31;electronics;133.49;934.43;east;s3
+t245;customer18;vr headset;2;2023-03-02;electronics;421.47;842.94;north-east;s6
+t246;customer13;slow cooker;10;2023-11-24;home appliances;142.42;1424.2;east;s3
+t247;customer2;game console;1;2023-08-09;electronics;172.31;172.31;north-east;s6
+t248;customer8;electric kettle;10;2023-08-27;home appliances;386.45;3864.5;west;s4
+t249;customer16;vacuum cleaner;8;2023-11-26;home appliances;321.36;2570.88;east;s3
+t250;customer7;smartwatch;4;2023-01-30;electronics;133.49;533.96;north-west;s8
+t251;customer17;air purifier;5;2023-01-29;home appliances;289.79;1448.95;west;s4
+t252;customer27;coffee machine;7;2023-12-02;home appliances;488.53;3419.71;central;s5
+t253;customer13;vr headset;7;2023-12-19;electronics;421.47;2950.29;east;s3
+t254;customer15;projector;8;2023-07-13;electronics;498.57;3988.56;south-east;s7
+t255;customer9;blender;6;2023-01-13;home appliances;448.75;2692.5;central;s5
+t256;customer4;bird feeder;7;2023-04-15;garden;259.8;1818.6;south-west;s9
+t257;customer21;e-reader;1;2023-10-30;electronics;124.11;124.11;west;s4
+t258;customer11;camera;2;2023-07-11;electronics;180.47;360.94;central;s5
+t259;customer19;drone;8;2023-10-24;electronics;373.0;2984.0;north-west;s8
+t260;customer27;e-reader;4;2023-05-29;electronics;124.11;496.44;central;s5
+t261;customer8;wireless charger;6;2023-11-08;electronics;347.48;2084.88;west;s4
+t262;customer15;coffee machine;9;2023-02-26;home appliances;488.53;4396.77;south-east;s7
+t263;customer2;electric grill;8;2023-05-06;home appliances;269.68;2157.44;north-east;s6
+t264;customer15;hair dryer;8;2023-08-20;home appliances;466.13;3729.04;south-east;s7
+t265;customer11;headphones;7;2023-06-06;electronics;486.39;3404.73;central;s5
+t266;customer6;tablet;2;2023-05-26;electronics;366.3;732.6;south;s2
+t267;customer19;air purifier;10;2023-09-21;home appliances;289.79;2897.9;north-west;s8
+t268;customer9;electric kettle;7;2023-01-04;home appliances;386.45;2705.15;central;s5
+t269;customer19;slow cooker;7;2023-08-22;home appliances;142.42;996.94;north-west;s8
+t270;customer23;hair dryer;4;2023-04-05;home appliances;466.13;1864.52;south-east;s7
+t271;customer1;tablet;4;2023-09-15;electronics;366.3;1465.2;south-east;s7
+t272;customer19;smartphone;3;2023-08-13;electronics;443.38;1330.14;north-west;s8
+t273;customer12;garden bench;8;2023-07-14;garden;158.28;1266.24;north-east;s6
+t274;customer15;wheelbarrow;5;2023-01-08;garden;197.72;988.6;south-east;s7
+t275;customer5;air purifier;1;2023-05-02;home appliances;289.79;289.79;central;s5
+t276;customer18;pruning shears;6;2023-04-29;garden;182.53;1095.18;north-east;s6
+t277;customer22;microwave;6;2023-07-25;home appliances;409.2;2455.2;east;s3
+t278;customer18;bird feeder;2;2023-09-02;garden;259.8;519.6;north-east;s6
+t279;customer13;slow cooker;8;2023-03-12;home appliances;142.42;1139.36;east;s3
+t280;customer19;laptop;3;2023-08-02;electronics;286.36;859.08;north-west;s8
+t281;customer18;smartwatch;6;2023-12-01;electronics;133.49;800.94;north-east;s6
+t282;customer8;game console;10;2023-11-15;electronics;172.31;1723.1;west;s4
+t283;customer28;camera;10;2023-03-16;electronics;180.47;1804.7;central;s5
+t284;customer21;bread maker;1;2023-02-02;home appliances;97.27;97.27;west;s4
+t285;customer20;smartphone;6;2023-12-02;electronics;443.38;2660.28;south;s2
+t286;customer28;projector;8;2023-10-18;electronics;498.57;3988.56;central;s5
+t287;customer27;microwave;9;2023-08-02;home appliances;409.2;3682.8;central;s5
+t288;customer28;grill;6;2023-04-13;garden;490.4;2942.4;central;s5
+t289;customer29;laptop;3;2023-10-09;electronics;286.36;859.08;south-east;s7
+t290;customer18;drone;7;2023-01-07;electronics;373.0;2611.0;north-east;s6
+t291;customer24;leaf blower;8;2023-08-13;garden;203.1;1624.8;north-west;s8
+t292;customer6;hair dryer;9;2023-07-07;home appliances;466.13;4195.17;south;s2
+t293;customer29;refrigerator;6;2023-06-22;home appliances;177.97;1067.82;south-east;s7
+t294;customer22;smartphone;5;2023-07-09;electronics;443.38;2216.9;east;s3
+t295;customer3;garden fork;5;2023-03-25;garden;445.02;2225.1;south;s2
+t296;customer7;patio heater;1;2023-02-16;garden;264.27;264.27;north-west;s8
+t297;customer24;microwave;5;2023-08-17;home appliances;409.2;2046.0;north-west;s8
+t298;customer29;lawn mower;10;2023-05-08;garden;319.8;3198.0;south-east;s7
+t299;customer19;drone;6;2023-08-16;electronics;373.0;2238.0;north-west;s8
+t300;customer20;air purifier;5;2023-03-30;home appliances;289.79;1448.95;south;s2
+t301;customer12;digital camera;9;2023-02-23;electronics;106.29;956.61;north-east;s6
+t302;customer20;toaster;3;2023-12-06;home appliances;472.73;1418.19;south;s2
+t303;customer25;electric kettle;2;2023-11-02;home appliances;386.45;772.9;south-east;s7
+t304;customer8;hair dryer;7;2023-05-19;home appliances;466.13;3262.91;west;s4
+t305;customer18;drone;7;2023-06-14;electronics;373.0;2611.0;north-east;s6
+t306;customer11;smartphone;1;2023-03-02;electronics;443.38;443.38;central;s5
+t307;customer4;smartphone;3;2023-02-09;electronics;443.38;1330.14;south-west;s9
+t308;customer18;garden bench;4;2023-08-29;garden;158.28;633.12;north-east;s6
+t309;customer1;smartwatch;5;2023-04-21;electronics;133.49;667.45;south-east;s7
+t310;customer8;toaster;10;2023-10-20;home appliances;472.73;4727.3;west;s4
+t311;customer21;laptop;8;2023-07-14;electronics;286.36;2290.88;west;s4
+t312;customer13;blender;10;2023-09-26;home appliances;448.75;4487.5;east;s3
+t313;customer30;smartphone;9;2023-02-10;electronics;443.38;3990.42;south-west;s9
+t314;customer4;coffee machine;2;2023-04-13;home appliances;488.53;977.06;south-west;s9
+t315;customer12;garden sculpture;1;2023-05-21;garden;174.01;174.01;north-east;s6
+t316;customer13;hair dryer;8;2023-05-14;home appliances;466.13;3729.04;east;s3
+t317;customer8;coffee machine;10;2023-06-02;home appliances;488.53;4885.3;west;s4
+t318;customer2;smartwatch;8;2023-10-17;electronics;133.49;1067.92;north-east;s6
+t319;customer19;camera;10;2023-04-02;electronics;180.47;1804.7;north-west;s8
+t320;customer23;smartphone;5;2023-07-21;electronics;443.38;2216.9;south-east;s7
+t321;customer4;smartphone;9;2023-12-24;electronics;443.38;3990.42;south-west;s9
+t322;customer3;lawn mower;9;2023-08-03;garden;319.8;2878.2;south;s2
+t323;customer16;air purifier;6;2023-07-03;home appliances;289.79;1738.74;east;s3
+t324;customer11;smart home hub;9;2023-08-29;electronics;436.04;3924.36;central;s5
+t325;customer18;laptop;6;2023-02-13;electronics;286.36;1718.16;north-east;s6
+t326;customer26;smartwatch;7;2023-07-29;electronics;133.49;934.43;north;s1
+t327;customer12;camera;9;2023-04-15;electronics;180.47;1624.23;north-east;s6
+t328;customer13;wireless charger;10;2023-03-06;electronics;347.48;3474.8;east;s3
+t329;customer19;smartphone;8;2023-06-02;electronics;443.38;3547.04;north-west;s8
+t330;customer11;e-reader;6;2023-09-19;electronics;124.11;744.66;central;s5
+t331;customer3;e-reader;4;2023-10-24;electronics;124.11;496.44;south;s2
+t332;customer16;vr headset;6;2023-04-17;electronics;421.47;2528.82;east;s3
+t333;customer23;vacuum cleaner;3;2023-07-02;home appliances;321.36;964.08;south-east;s7
+t334;customer7;smartphone;5;2023-01-15;electronics;443.38;2216.9;north-west;s8
+t335;customer2;steam iron;5;2023-05-15;home appliances;385.8;1929.0;north-east;s6
+t336;customer1;blender;7;2023-07-26;home appliances;448.75;3141.25;south-east;s7
+t337;customer17;laptop;7;2023-11-09;electronics;286.36;2004.52;west;s4
+t338;customer16;smartphone;5;2023-07-16;electronics;443.38;2216.9;east;s3
+t339;customer13;coffee machine;1;2023-05-22;home appliances;488.53;488.53;east;s3
+t340;customer21;tablet;3;2023-05-24;electronics;366.3;1098.9;west;s4
+t341;customer9;smartwatch;3;2023-06-21;electronics;133.49;400.47;central;s5
+t342;customer27;microwave;4;2023-11-26;home appliances;409.2;1636.8;central;s5
+t343;customer30;smartphone;8;2023-08-21;electronics;443.38;3547.04;south-west;s9
+t344;customer7;hair dryer;2;2023-02-04;home appliances;466.13;932.26;north-west;s8
+t345;customer3;headphones;10;2023-01-20;electronics;486.39;4863.9;south;s2
+t346;customer28;noise cancelling headphones;10;2023-07-13;electronics;398.86;3988.6;central;s5
+t347;customer29;hair dryer;5;2023-06-21;home appliances;466.13;2330.65;south-east;s7
+t348;customer25;sprinkler;4;2023-10-10;garden;252.06;1008.24;south-east;s7
+t349;customer1;bird feeder;7;2023-12-21;garden;259.8;1818.6;south-east;s7
+t350;customer13;laptop;2;2023-09-13;electronics;286.36;572.72;east;s3
+t351;customer24;blender;6;2023-01-25;home appliances;448.75;2692.5;north-west;s8
+t352;customer30;bread maker;7;2023-12-29;home appliances;97.27;680.89;south-west;s9
+t353;customer18;air purifier;4;2023-04-21;home appliances;289.79;1159.16;north-east;s6
+t354;customer12;bluetooth speaker;1;2023-07-01;electronics;193.92;193.92;north-east;s6
+t355;customer8;vr headset;6;2023-04-06;electronics;421.47;2528.82;west;s4
+t356;customer28;e-reader;2;2023-12-11;electronics;124.11;248.22;central;s5
+t357;customer17;laptop;6;2023-03-21;electronics;286.36;1718.16;west;s4
+t358;customer9;smartwatch;4;2023-10-17;electronics;133.49;533.96;central;s5
+t359;customer16;wheelbarrow;1;2023-08-16;garden;197.72;197.72;east;s3
+t360;customer29;air purifier;3;2023-05-02;home appliances;289.79;869.37;south-east;s7
+t361;customer1;stand mixer;5;2023-09-19;home appliances;308.99;1544.95;south-east;s7
+t362;customer5;electric kettle;8;2023-11-24;home appliances;386.45;3091.6;central;s5
+t363;customer9;lawn mower;6;2023-03-26;garden;319.8;1918.8;central;s5
+t364;customer5;laptop;4;2023-09-01;electronics;286.36;1145.44;central;s5
+t365;customer8;air purifier;9;2023-12-11;home appliances;289.79;2608.11;west;s4
+t366;customer13;wearable fitness tracker;6;2023-11-10;electronics;383.13;2298.78;east;s3
+t367;customer5;lawn mower;10;2023-03-06;garden;319.8;3198.0;central;s5
+t368;customer15;air purifier;8;2023-06-09;home appliances;289.79;2318.32;south-east;s7
+t369;customer9;air purifier;7;2023-12-12;home appliances;289.79;2028.53;central;s5
+t370;customer7;pruning shears;10;2023-01-30;garden;182.53;1825.3;north-west;s8
+t371;customer6;refrigerator;4;2023-01-06;home appliances;177.97;711.88;south;s2
+t372;customer9;leaf blower;6;2023-06-24;garden;203.1;1218.6;central;s5
+t373;customer11;e-reader;9;2023-05-05;electronics;124.11;1116.99;central;s5
+t374;customer17;electric kettle;7;2023-09-06;home appliances;386.45;2705.15;west;s4
+t375;customer20;lawn mower;6;2023-04-16;garden;319.8;1918.8;south;s2
+t376;customer11;smartwatch;5;2023-09-14;electronics;133.49;667.45;central;s5
+t377;customer19;noise cancelling headphones;6;2023-09-02;electronics;398.86;2393.16;north-west;s8
+t378;customer8;laptop;7;2023-09-14;electronics;286.36;2004.52;west;s4
+t379;customer16;blender;8;2023-06-09;home appliances;448.75;3590.0;east;s3
+t380;customer28;tablet;3;2023-12-11;electronics;366.3;1098.9;central;s5
+t381;customer4;e-reader;9;2023-11-29;electronics;124.11;1116.99;south-west;s9
+t382;customer10;sprinkler;6;2023-05-28;garden;252.06;1512.36;south-east;s7
+t383;customer1;drone;3;2023-01-17;electronics;373.0;1119.0;south-east;s7
+t384;customer6;tablet;4;2023-02-10;electronics;366.3;1465.2;south;s2
+t385;customer15;coffee machine;5;2023-02-02;home appliances;488.53;2442.65;south-east;s7
+t386;customer6;tablet;10;2023-03-10;electronics;366.3;3663.0;south;s2
+t387;customer19;projector;9;2023-08-30;electronics;498.57;4487.13;north-west;s8
+t388;customer4;smartphone;3;2023-02-19;electronics;443.38;1330.14;south-west;s9
+t389;customer19;blender;7;2023-01-17;home appliances;448.75;3141.25;north-west;s8
+t390;customer4;vr headset;4;2023-02-09;electronics;421.47;1685.88;south-west;s9
+t391;customer3;smartphone;3;2023-12-02;electronics;443.38;1330.14;south;s2
+t392;customer1;camera;7;2023-10-15;electronics;180.47;1263.29;south-east;s7
+t393;customer23;bread maker;3;2023-12-27;home appliances;97.27;291.81;south-east;s7
+t394;customer28;noise cancelling headphones;3;2023-10-29;electronics;398.86;1196.58;central;s5
+t395;customer16;smartwatch;8;2023-12-27;electronics;133.49;1067.92;east;s3
+t396;customer26;digital camera;6;2023-11-26;electronics;106.29;637.74;north;s1
+t397;customer7;microwave;10;2023-07-22;home appliances;409.2;4092.0;north-west;s8
+t398;customer16;rain barrel;1;2023-01-27;garden;474.58;474.58;east;s3
+t399;customer10;bluetooth speaker;1;2023-03-05;electronics;193.92;193.92;south-east;s7
+t400;customer28;compost bin;7;2023-08-22;garden;458.17;3207.19;central;s5
+t401;customer26;e-reader;3;2023-07-02;electronics;124.11;372.33;north;s1
+t402;customer20;air purifier;10;2023-11-17;home appliances;289.79;2897.9;south;s2
+t403;customer12;wireless charger;4;2023-11-12;electronics;347.48;1389.92;north-east;s6
+t404;customer13;tablet;4;2023-08-17;electronics;366.3;1465.2;east;s3
+t405;customer29;sprinkler;5;2023-10-05;garden;252.06;1260.3;south-east;s7
+t406;customer18;humidifier;7;2023-07-29;home appliances;267.02;1869.14;north-east;s6
+t407;customer22;air purifier;10;2023-02-09;home appliances;289.79;2897.9;east;s3
+t408;customer4;laptop;3;2023-01-06;electronics;286.36;859.08;south-west;s9
+t409;customer27;e-reader;9;2023-10-28;electronics;124.11;1116.99;central;s5
+t410;customer17;toaster;10;2023-04-19;home appliances;472.73;4727.3;west;s4
+t411;customer16;hair dryer;8;2023-12-03;home appliances;466.13;3729.04;east;s3
+t412;customer2;coffee machine;10;2023-08-24;home appliances;488.53;4885.3;north-east;s6
+t413;customer18;hedge trimmer;6;2023-05-20;garden;115.83;694.98;north-east;s6
+t414;customer5;bread maker;5;2023-02-21;home appliances;97.27;486.35;central;s5
+t415;customer19;air purifier;2;2023-07-10;home appliances;289.79;579.58;north-west;s8
+t416;customer28;microwave;5;2023-04-15;home appliances;409.2;2046.0;central;s5
+t417;customer2;stand mixer;3;2023-02-28;home appliances;308.99;926.97;north-east;s6
+t418;customer13;hedge trimmer;1;2023-09-18;garden;115.83;115.83;east;s3
+t419;customer17;coffee machine;8;2023-02-28;home appliances;488.53;3908.24;west;s4
+t420;customer11;garden fork;4;2023-12-08;garden;445.02;1780.08;central;s5
+t421;customer14;vacuum cleaner;8;2023-06-16;home appliances;321.36;2570.88;north-west;s8
+t422;customer21;microwave;5;2023-03-05;home appliances;409.2;2046.0;west;s4
+t423;customer7;headphones;7;2023-12-01;electronics;486.39;3404.73;north-west;s8
+t424;customer28;drone;5;2023-05-16;electronics;373.0;1865.0;central;s5
+t425;customer27;smartphone;10;2023-04-24;electronics;443.38;4433.8;central;s5
+t426;customer26;headphones;9;2023-04-27;electronics;486.39;4377.51;north;s1
+t427;customer20;smartwatch;2;2023-11-17;electronics;133.49;266.98;south;s2
+t428;customer7;outdoor fire pit;2;2023-02-17;garden;298.7;597.4;north-west;s8
+t429;customer6;smartphone;7;2023-08-23;electronics;443.38;3103.66;south;s2
+t430;customer15;laptop;10;2023-06-21;electronics;286.36;2863.6;south-east;s7
+t431;customer2;air fryer;10;2023-03-01;home appliances;172.82;1728.2;north-east;s6
+t432;customer10;laptop;10;2023-07-04;electronics;286.36;2863.6;south-east;s7
+t433;customer30;compost bin;8;2023-01-19;garden;458.17;3665.36;south-west;s9
+t434;customer8;smartwatch;3;2023-08-15;electronics;133.49;400.47;west;s4
+t435;customer2;headphones;9;2023-12-16;electronics;486.39;4377.51;north-east;s6
+t436;customer5;humidifier;8;2023-11-30;home appliances;267.02;2136.16;central;s5
+t437;customer19;wireless charger;2;2023-10-03;electronics;347.48;694.96;north-west;s8
+t438;customer27;vacuum cleaner;3;2023-05-26;home appliances;321.36;964.08;central;s5
+t439;customer10;blender;3;2023-11-25;home appliances;448.75;1346.25;south-east;s7
+t440;customer9;tablet;10;2023-08-24;electronics;366.3;3663.0;central;s5
+t441;customer13;microwave;7;2023-01-02;home appliances;409.2;2864.4;east;s3
+t442;customer16;smartphone;1;2023-03-02;electronics;443.38;443.38;east;s3
+t443;customer5;laptop;3;2023-03-22;electronics;286.36;859.08;central;s5
+t444;customer11;hedge trimmer;5;2023-02-27;garden;115.83;579.15;central;s5
+t445;customer6;tablet;3;2023-05-31;electronics;366.3;1098.9;south;s2
+t446;customer28;coffee machine;4;2023-01-06;home appliances;488.53;1954.12;central;s5
+t447;customer12;e-reader;2;2023-07-21;electronics;124.11;248.22;north-east;s6
+t448;customer7;smartphone;10;2023-12-06;electronics;443.38;4433.8;north-west;s8
+t449;customer19;electric kettle;6;2023-12-24;home appliances;386.45;2318.7;north-west;s8
+t450;customer6;tablet;9;2023-05-28;electronics;366.3;3296.7;south;s2
+t451;customer29;drone;5;2023-12-17;electronics;373.0;1865.0;south-east;s7
+t452;customer20;smartwatch;6;2023-08-25;electronics;133.49;800.94;south;s2
+t453;customer4;headphones;2;2023-12-20;electronics;486.39;972.78;south-west;s9
+t454;customer21;camera;9;2023-03-14;electronics;180.47;1624.23;west;s4
+t455;customer22;hedge trimmer;7;2023-01-13;garden;115.83;810.81;east;s3
+t456;customer5;electric toothbrush;8;2023-07-12;home appliances;320.83;2566.64;central;s5
+t457;customer21;refrigerator;3;2023-05-09;home appliances;177.97;533.91;west;s4
+t458;customer14;blender;2;2023-09-15;home appliances;448.75;897.5;north-west;s8
+t459;customer12;vacuum cleaner;4;2023-02-09;home appliances;321.36;1285.44;north-east;s6
+t460;customer8;toaster;4;2023-01-21;home appliances;472.73;1890.92;west;s4
+t461;customer21;toaster;5;2023-11-14;home appliances;472.73;2363.65;west;s4
+t462;customer8;garden sculpture;7;2023-03-09;garden;174.01;1218.07;west;s4
+t463;customer23;electric kettle;6;2023-06-25;home appliances;386.45;2318.7;south-east;s7
+t464;customer5;grill;7;2023-06-07;garden;490.4;3432.8;central;s5
+t465;customer20;smartwatch;9;2023-06-17;electronics;133.49;1201.41;south;s2
+t466;customer17;vr headset;6;2023-03-15;electronics;421.47;2528.82;west;s4
+t467;customer22;projector;3;2023-05-30;electronics;498.57;1495.71;east;s3
+t468;customer25;electric toothbrush;9;2023-07-27;home appliances;320.83;2887.47;south-east;s7
+t469;customer6;air purifier;4;2023-08-06;home appliances;289.79;1159.16;south;s2
+t470;customer4;portable gaming system;7;2023-09-14;electronics;162.18;1135.26;south-west;s9
+t471;customer11;smartwatch;6;2023-12-04;electronics;133.49;800.94;central;s5
+t472;customer28;microwave;4;2023-12-14;home appliances;409.2;1636.8;central;s5
+t473;customer11;air purifier;9;2023-01-01;home appliances;289.79;2608.11;central;s5
+t474;customer25;vacuum cleaner;8;2023-11-21;home appliances;321.36;2570.88;south-east;s7
+t475;customer19;blender;10;2023-07-01;home appliances;448.75;4487.5;north-west;s8
+t476;customer19;leaf blower;2;2023-03-07;garden;203.1;406.2;north-west;s8
+t477;customer25;garden sculpture;6;2023-11-02;garden;174.01;1044.06;south-east;s7
+t478;customer30;outdoor fire pit;10;2023-05-15;garden;298.7;2987.0;south-west;s9
+t479;customer23;patio umbrella;5;2023-09-15;garden;391.96;1959.8;south-east;s7
+t480;customer19;lawn mower;7;2023-10-05;garden;319.8;2238.6;north-west;s8
+t481;customer24;electric toothbrush;10;2023-12-20;home appliances;320.83;3208.3;north-west;s8
+t482;customer23;blender;1;2023-06-16;home appliances;448.75;448.75;south-east;s7
+t483;customer26;dishwasher;7;2023-06-09;home appliances;192.46;1347.22;north;s1
+t484;customer29;rain barrel;5;2023-08-16;garden;474.58;2372.9;south-east;s7
+t485;customer28;garden sculpture;8;2023-07-04;garden;174.01;1392.08;central;s5
+t486;customer14;vr headset;1;2023-08-09;electronics;421.47;421.47;north-west;s8
+t487;customer30;toaster;8;2023-02-11;home appliances;472.73;3781.84;south-west;s9
+t488;customer11;rain barrel;5;2023-08-01;garden;474.58;2372.9;central;s5
+t489;customer28;slow cooker;1;2023-08-13;home appliances;142.42;142.42;central;s5
+t490;customer14;air purifier;7;2023-11-18;home appliances;289.79;2028.53;north-west;s8
+t491;customer13;humidifier;5;2023-05-27;home appliances;267.02;1335.1;east;s3
+t492;customer2;smartphone;8;2023-08-21;electronics;443.38;3547.04;north-east;s6
+t493;customer22;electric kettle;2;2023-01-18;home appliances;386.45;772.9;east;s3
+t494;customer21;smart home hub;10;2023-12-22;electronics;436.04;4360.4;west;s4
+t495;customer22;microwave;6;2023-11-03;home appliances;409.2;2455.2;east;s3
+t496;customer18;laptop;6;2023-10-24;electronics;286.36;1718.16;north-east;s6
+t497;customer16;hedge trimmer;6;2023-12-21;garden;115.83;694.98;east;s3
+t498;customer24;microwave;2;2023-02-21;home appliances;409.2;818.4;north-west;s8
+t499;customer27;vr headset;1;2023-02-03;electronics;421.47;421.47;central;s5
+t500;customer30;electric toothbrush;9;2023-11-11;home appliances;320.83;2887.47;south-west;s9
+t501;customer8;blender;9;2023-10-05;home appliances;448.75;4038.75;west;s4
+t502;customer26;vacuum cleaner;6;2023-04-04;home appliances;321.36;1928.16;north;s1
+t503;customer29;headphones;5;2023-03-12;electronics;486.39;2431.95;south-east;s7
+t504;customer2;drone;5;2023-12-05;electronics;373.0;1865.0;north-east;s6
+t505;customer20;garden sculpture;2;2023-09-15;garden;174.01;348.02;south;s2
+t506;customer18;smartphone;7;2023-01-25;electronics;443.38;3103.66;north-east;s6
+t507;customer11;rain barrel;10;2023-11-05;garden;474.58;4745.8;central;s5
+t508;customer13;smartwatch;5;2023-02-24;electronics;133.49;667.45;east;s3
+t509;customer28;e-reader;6;2023-07-27;electronics;124.11;744.66;central;s5
+t510;customer24;blender;10;2023-01-28;home appliances;448.75;4487.5;north-west;s8
+t511;customer17;bird feeder;4;2023-09-30;garden;259.8;1039.2;west;s4
+t512;customer23;headphones;9;2023-07-27;electronics;486.39;4377.51;south-east;s7
+t513;customer7;pruning shears;6;2023-02-04;garden;182.53;1095.18;north-west;s8
+t514;customer12;vr headset;7;2023-03-29;electronics;421.47;2950.29;north-east;s6
+t515;customer18;tablet;6;2023-05-11;electronics;366.3;2197.8;north-east;s6
+t516;customer19;toaster;6;2023-04-09;home appliances;472.73;2836.38;north-west;s8
+t517;customer20;smartwatch;5;2023-11-15;electronics;133.49;667.45;south;s2
+t518;customer18;headphones;3;2023-01-27;electronics;486.39;1459.17;north-east;s6
+t519;customer30;tablet;4;2023-07-22;electronics;366.3;1465.2;south-west;s9
+t520;customer16;smartwatch;10;2023-05-26;electronics;133.49;1334.9;east;s3
+t521;customer1;refrigerator;4;2023-09-14;home appliances;177.97;711.88;south-east;s7
+t522;customer4;vacuum cleaner;4;2023-09-21;home appliances;321.36;1285.44;south-west;s9
+t523;customer24;blender;5;2023-09-17;home appliances;448.75;2243.75;north-west;s8
+t524;customer17;electric kettle;2;2023-02-20;home appliances;386.45;772.9;west;s4
+t525;customer29;headphones;10;2023-10-31;electronics;486.39;4863.9;south-east;s7
+t526;customer9;laptop;1;2023-12-30;electronics;286.36;286.36;central;s5
+t527;customer1;hair dryer;4;2023-06-04;home appliances;466.13;1864.52;south-east;s7
+t528;customer3;outdoor fire pit;4;2023-04-13;garden;298.7;1194.8;south;s2
+t529;customer20;toaster;2;2023-04-22;home appliances;472.73;945.46;south;s2
+t530;customer15;smartwatch;6;2023-11-14;electronics;133.49;800.94;south-east;s7
+t531;customer29;drone;7;2023-11-09;electronics;373.0;2611.0;south-east;s7
+t532;customer6;coffee machine;5;2023-08-18;home appliances;488.53;2442.65;south;s2
+t533;customer18;steam iron;3;2023-06-26;home appliances;385.8;1157.4;north-east;s6
+t534;customer1;sprinkler;2;2023-06-04;garden;252.06;504.12;south-east;s7
+t535;customer28;coffee machine;2;2023-02-04;home appliances;488.53;977.06;central;s5
+t536;customer25;air purifier;1;2023-12-23;home appliances;289.79;289.79;south-east;s7
+t537;customer6;e-reader;4;2023-05-24;electronics;124.11;496.44;south;s2
+t538;customer15;air purifier;1;2023-05-25;home appliances;289.79;289.79;south-east;s7
+t539;customer28;hair dryer;1;2023-07-29;home appliances;466.13;466.13;central;s5
+t540;customer6;portable gaming system;4;2023-10-08;electronics;162.18;648.72;south;s2
+t541;customer11;smartphone;6;2023-12-25;electronics;443.38;2660.28;central;s5
+t542;customer6;toaster;9;2023-07-17;home appliances;472.73;4254.57;south;s2
+t543;customer15;stand mixer;10;2023-05-27;home appliances;308.99;3089.9;south-east;s7
+t544;customer10;outdoor fire pit;3;2023-10-13;garden;298.7;896.1;south-east;s7
+t545;customer9;action camera;3;2023-06-02;electronics;67.45;202.35;central;s5
+t546;customer11;hair dryer;6;2023-08-15;home appliances;466.13;2796.78;central;s5
+t547;customer5;electric kettle;6;2023-06-06;home appliances;386.45;2318.7;central;s5
+t548;customer9;blender;6;2023-05-13;home appliances;448.75;2692.5;central;s5
+t549;customer25;smartphone;9;2023-06-09;electronics;443.38;3990.42;south-east;s7
+t550;customer7;noise cancelling headphones;10;2023-02-28;electronics;398.86;3988.6;north-west;s8
+t551;customer7;smartwatch;10;2023-08-10;electronics;133.49;1334.9;north-west;s8
+t552;customer17;rain barrel;9;2023-04-18;garden;474.58;4271.22;west;s4
+t553;customer16;headphones;2;2023-05-02;electronics;486.39;972.78;east;s3
+t554;customer1;coffee machine;7;2023-12-25;home appliances;488.53;3419.71;south-east;s7
+t555;customer25;wireless charger;7;2023-05-30;electronics;347.48;2432.36;south-east;s7
+t556;customer18;coffee machine;7;2023-09-16;home appliances;488.53;3419.71;north-east;s6
+t557;customer22;smartwatch;8;2023-02-17;electronics;133.49;1067.92;east;s3
+t558;customer23;smartphone;7;2023-07-04;electronics;443.38;3103.66;south-east;s7
+t559;customer11;vr headset;5;2023-12-24;electronics;421.47;2107.35;central;s5
+t560;customer21;wheelbarrow;7;2023-07-06;garden;197.72;1384.04;west;s4
+t561;customer5;air purifier;2;2023-03-04;home appliances;289.79;579.58;central;s5
+t562;customer29;headphones;1;2023-07-21;electronics;486.39;486.39;south-east;s7
+t563;customer25;air fryer;3;2023-08-02;home appliances;172.82;518.46;south-east;s7
+t564;customer14;stand mixer;1;2023-08-18;home appliances;308.99;308.99;north-west;s8
+t565;customer7;hair dryer;3;2023-04-23;home appliances;466.13;1398.39;north-west;s8
+t566;customer17;hair dryer;10;2023-03-24;home appliances;466.13;4661.3;west;s4
+t567;customer17;garden fork;10;2023-09-14;garden;445.02;4450.2;west;s4
+t568;customer11;headphones;4;2023-04-06;electronics;486.39;1945.56;central;s5
+t569;customer16;drone;10;2023-01-27;electronics;373.0;3730.0;east;s3
+t570;customer19;microwave;7;2023-05-31;home appliances;409.2;2864.4;north-west;s8
+t571;customer21;vacuum cleaner;7;2023-10-22;home appliances;321.36;2249.52;west;s4
+t572;customer1;hedge trimmer;6;2023-04-02;garden;115.83;694.98;south-east;s7
+t573;customer7;toaster;6;2023-01-23;home appliances;472.73;2836.38;north-west;s8
+t574;customer9;portable gaming system;7;2023-05-24;electronics;162.18;1135.26;central;s5
+t575;customer4;vacuum cleaner;9;2023-11-28;home appliances;321.36;2892.24;south-west;s9
+t576;customer23;drone;1;2023-04-14;electronics;373.0;373.0;south-east;s7
+t577;customer4;microwave;5;2023-06-04;home appliances;409.2;2046.0;south-west;s9
+t578;customer5;steam iron;9;2023-04-12;home appliances;385.8;3472.2;central;s5
+t579;customer23;camera;10;2023-10-27;electronics;180.47;1804.7;south-east;s7
+t580;customer25;refrigerator;7;2023-06-02;home appliances;177.97;1245.79;south-east;s7
+t581;customer23;noise cancelling headphones;8;2023-03-28;electronics;398.86;3190.88;south-east;s7
+t582;customer5;e-reader;3;2023-08-28;electronics;124.11;372.33;central;s5
+t583;customer18;e-reader;1;2023-09-25;electronics;124.11;124.11;north-east;s6
+t584;customer24;vacuum cleaner;10;2023-11-23;home appliances;321.36;3213.6;north-west;s8
+t585;customer24;hair dryer;3;2023-06-17;home appliances;466.13;1398.39;north-west;s8
+t586;customer29;microwave;6;2023-05-22;home appliances;409.2;2455.2;south-east;s7
+t587;customer18;bluetooth speaker;2;2023-12-30;electronics;193.92;387.84;north-east;s6
+t588;customer24;electric toothbrush;5;2023-10-13;home appliances;320.83;1604.15;north-west;s8
+t589;customer21;tablet;3;2023-10-19;electronics;366.3;1098.9;west;s4
+t590;customer18;blender;7;2023-09-10;home appliances;448.75;3141.25;north-east;s6
+t591;customer9;headphones;9;2023-09-06;electronics;486.39;4377.51;central;s5
+t592;customer17;smartwatch;4;2023-08-08;electronics;133.49;533.96;west;s4
+t593;customer28;portable gaming system;9;2023-10-05;electronics;162.18;1459.62;central;s5
+t594;customer20;watering can;9;2023-07-04;garden;327.29;2945.61;south;s2
+t595;customer25;blender;10;2023-05-31;home appliances;448.75;4487.5;south-east;s7
+t596;customer8;hair dryer;8;2023-09-22;home appliances;466.13;3729.04;west;s4
+t597;customer10;portable gaming system;8;2023-09-10;electronics;162.18;1297.44;south-east;s7
+t598;customer7;smartwatch;1;2023-01-31;electronics;133.49;133.49;north-west;s8
+t599;customer3;toaster;4;2023-04-07;home appliances;472.73;1890.92;south;s2
+t600;customer1;smartwatch;1;2023-11-07;electronics;133.49;133.49;south-east;s7
+t601;customer7;outdoor fire pit;6;2023-02-05;garden;298.7;1792.2;north-west;s8
+t602;customer3;hair dryer;3;2023-10-27;home appliances;466.13;1398.39;south;s2
+t603;customer6;refrigerator;7;2023-04-01;home appliances;177.97;1245.79;south;s2
+t604;customer26;refrigerator;1;2023-07-28;home appliances;177.97;177.97;north;s1
+t605;customer18;hair dryer;4;2023-03-30;home appliances;466.13;1864.52;north-east;s6
+t606;customer6;microwave;7;2023-12-18;home appliances;409.2;2864.4;south;s2
+t607;customer10;rice cooker;1;2023-06-14;home appliances;360.77;360.77;south-east;s7
+t608;customer14;microwave;8;2023-05-29;home appliances;409.2;3273.6;north-west;s8
+t609;customer18;toaster;6;2023-12-30;home appliances;472.73;2836.38;north-east;s6
+t610;customer1;drone;9;2023-03-11;electronics;373.0;3357.0;south-east;s7
+t611;customer18;tablet;4;2023-05-14;electronics;366.3;1465.2;north-east;s6
+t612;customer24;laptop;4;2023-03-21;electronics;286.36;1145.44;north-west;s8
+t613;customer10;e-reader;3;2023-09-16;electronics;124.11;372.33;south-east;s7
+t614;customer25;microwave;10;2023-11-25;home appliances;409.2;4092.0;south-east;s7
+t615;customer8;microwave;8;2023-09-12;home appliances;409.2;3273.6;west;s4
+t616;customer22;vr headset;5;2023-05-22;electronics;421.47;2107.35;east;s3
+t617;customer2;smartwatch;4;2023-12-03;electronics;133.49;533.96;north-east;s6
+t618;customer15;washing machine;6;2023-05-18;home appliances;175.81;1054.86;south-east;s7
+t619;customer28;digital camera;3;2023-12-03;electronics;106.29;318.87;central;s5
+t620;customer15;headphones;7;2023-05-27;electronics;486.39;3404.73;south-east;s7
+t621;customer11;electric kettle;3;2023-07-18;home appliances;386.45;1159.35;central;s5
+t622;customer9;headphones;4;2023-12-11;electronics;486.39;1945.56;central;s5
+t623;customer17;blender;4;2023-06-27;home appliances;448.75;1795.0;west;s4
+t624;customer15;laptop;6;2023-10-15;electronics;286.36;1718.16;south-east;s7
+t625;customer25;slow cooker;5;2023-05-02;home appliances;142.42;712.1;south-east;s7
+t626;customer1;tablet;10;2023-09-20;electronics;366.3;3663.0;south-east;s7
+t627;customer20;laptop;8;2023-01-26;electronics;286.36;2290.88;south;s2
+t628;customer3;smartwatch;5;2023-08-01;electronics;133.49;667.45;south;s2
+t629;customer20;camera;6;2023-02-12;electronics;180.47;1082.82;south;s2
+t630;customer20;patio umbrella;8;2023-06-17;garden;391.96;3135.68;south;s2
+t631;customer13;stand mixer;7;2023-05-09;home appliances;308.99;2162.93;east;s3
+t632;customer24;drone;1;2023-09-22;electronics;373.0;373.0;north-west;s8
+t633;customer16;humidifier;3;2023-08-02;home appliances;267.02;801.06;east;s3
+t634;customer3;drone;5;2023-01-14;electronics;373.0;1865.0;south;s2
+t635;customer2;vr headset;5;2023-11-16;electronics;421.47;2107.35;north-east;s6
+t636;customer23;smartphone;2;2023-05-12;electronics;443.38;886.76;south-east;s7
+t637;customer28;e-reader;7;2023-10-09;electronics;124.11;868.77;central;s5
+t638;customer11;headphones;5;2023-11-03;electronics;486.39;2431.95;central;s5
+t639;customer11;bird feeder;9;2023-02-08;garden;259.8;2338.2;central;s5
+t640;customer24;electric kettle;10;2023-11-25;home appliances;386.45;3864.5;north-west;s8
+t641;customer28;refrigerator;8;2023-09-09;home appliances;177.97;1423.76;central;s5
+t642;customer1;vacuum cleaner;4;2023-03-02;home appliances;321.36;1285.44;south-east;s7
+t643;customer14;digital camera;4;2023-08-22;electronics;106.29;425.16;north-west;s8
+t644;customer20;drone;6;2023-06-12;electronics;373.0;2238.0;south;s2
+t645;customer13;drone;2;2023-08-12;electronics;373.0;746.0;east;s3
+t646;customer9;bluetooth speaker;7;2023-11-03;electronics;193.92;1357.44;central;s5
+t647;customer16;wheelbarrow;10;2023-07-14;garden;197.72;1977.2;east;s3
+t648;customer25;smartwatch;2;2023-09-30;electronics;133.49;266.98;south-east;s7
+t649;customer16;stand mixer;5;2023-05-19;home appliances;308.99;1544.95;east;s3
+t650;customer15;smartwatch;5;2023-04-23;electronics;133.49;667.45;south-east;s7
+t651;customer13;vr headset;10;2023-05-01;electronics;421.47;4214.7;east;s3
+t652;customer1;grill;4;2023-10-29;garden;490.4;1961.6;south-east;s7
+t653;customer10;e-reader;1;2023-04-27;electronics;124.11;124.11;south-east;s7
+t654;customer10;air purifier;3;2023-10-01;home appliances;289.79;869.37;south-east;s7
+t655;customer20;vacuum cleaner;7;2023-05-19;home appliances;321.36;2249.52;south;s2
+t656;customer13;garden bench;4;2023-05-01;garden;158.28;633.12;east;s3
+t657;customer27;smartwatch;6;2023-10-31;electronics;133.49;800.94;central;s5
+t658;customer27;laptop;1;2023-12-19;electronics;286.36;286.36;central;s5
+t659;customer3;headphones;9;2023-04-08;electronics;486.39;4377.51;south;s2
+t660;customer19;hair dryer;10;2023-02-23;home appliances;466.13;4661.3;north-west;s8
+t661;customer14;e-reader;8;2023-05-09;electronics;124.11;992.88;north-west;s8
+t662;customer2;garden sculpture;5;2023-04-23;garden;174.01;870.05;north-east;s6
+t663;customer30;e-reader;1;2023-05-26;electronics;124.11;124.11;south-west;s9
+t664;customer1;action camera;3;2023-10-11;electronics;67.45;202.35;south-east;s7
+t665;customer26;compost bin;9;2023-04-29;garden;458.17;4123.53;north;s1
+t666;customer11;rain barrel;9;2023-08-29;garden;474.58;4271.22;central;s5
+t667;customer22;blender;3;2023-03-23;home appliances;448.75;1346.25;east;s3
+t668;customer18;sprinkler;5;2023-10-01;garden;252.06;1260.3;north-east;s6
+t669;customer19;hair dryer;1;2023-04-08;home appliances;466.13;466.13;north-west;s8
+t670;customer25;compost bin;4;2023-11-29;garden;458.17;1832.68;south-east;s7
+t671;customer29;vacuum cleaner;5;2023-01-15;home appliances;321.36;1606.8;south-east;s7
+t672;customer1;air fryer;5;2023-09-23;home appliances;172.82;864.1;south-east;s7
+t673;customer11;hedge trimmer;6;2023-10-29;garden;115.83;694.98;central;s5
+t674;customer16;tablet;6;2023-04-28;electronics;366.3;2197.8;east;s3
+t675;customer18;tablet;8;2023-02-19;electronics;366.3;2930.4;north-east;s6
+t676;customer4;coffee machine;4;2023-06-15;home appliances;488.53;1954.12;south-west;s9
+t677;customer10;bluetooth speaker;3;2023-10-15;electronics;193.92;581.76;south-east;s7
+t678;customer1;camera;1;2023-07-06;electronics;180.47;180.47;south-east;s7
+t679;customer18;electric kettle;2;2023-11-17;home appliances;386.45;772.9;north-east;s6
+t680;customer15;hedge trimmer;2;2023-09-13;garden;115.83;231.66;south-east;s7
+t681;customer8;smartwatch;6;2023-03-02;electronics;133.49;800.94;west;s4
+t682;customer27;blender;5;2023-01-10;home appliances;448.75;2243.75;central;s5
+t683;customer30;electric kettle;2;2023-11-30;home appliances;386.45;772.9;south-west;s9
+t684;customer22;external hard drive;10;2023-12-29;electronics;303.42;3034.2;east;s3
+t685;customer3;camera;3;2023-04-05;electronics;180.47;541.41;south;s2
+t686;customer18;laptop;5;2023-03-27;electronics;286.36;1431.8;north-east;s6
+t687;customer8;air purifier;3;2023-07-08;home appliances;289.79;869.37;west;s4
+t688;customer9;rain barrel;2;2023-02-23;garden;474.58;949.16;central;s5
+t689;customer6;blender;9;2023-10-08;home appliances;448.75;4038.75;south;s2
+t690;customer8;electric kettle;10;2023-09-22;home appliances;386.45;3864.5;west;s4
+t691;customer15;microwave;9;2023-10-28;home appliances;409.2;3682.8;south-east;s7
+t692;customer24;steam iron;10;2023-10-16;home appliances;385.8;3858.0;north-west;s8
+t693;customer6;electric kettle;7;2023-11-20;home appliances;386.45;2705.15;south;s2
+t694;customer27;electric kettle;10;2023-10-01;home appliances;386.45;3864.5;central;s5
+t695;customer18;camera;3;2023-12-28;electronics;180.47;541.41;north-east;s6
+t696;customer24;drone;5;2023-10-01;electronics;373.0;1865.0;north-west;s8
+t697;customer4;action camera;8;2023-03-06;electronics;67.45;539.6;south-west;s9
+t698;customer15;vr headset;1;2023-08-08;electronics;421.47;421.47;south-east;s7
+t699;customer24;laptop;4;2023-08-05;electronics;286.36;1145.44;north-west;s8
+t700;customer15;electric kettle;7;2023-02-13;home appliances;386.45;2705.15;south-east;s7
+t701;customer8;vr headset;9;2023-02-02;electronics;421.47;3793.23;west;s4
+t702;customer11;coffee machine;3;2023-08-01;home appliances;488.53;1465.59;central;s5
+t703;customer23;coffee machine;7;2023-08-14;home appliances;488.53;3419.71;south-east;s7
+t704;customer2;headphones;8;2023-08-14;electronics;486.39;3891.12;north-east;s6
+t705;customer25;blender;2;2023-01-22;home appliances;448.75;897.5;south-east;s7
+t706;customer13;microwave;4;2023-12-14;home appliances;409.2;1636.8;east;s3
+t707;customer13;vr headset;1;2023-08-26;electronics;421.47;421.47;east;s3
+t708;customer26;laptop;4;2023-10-05;electronics;286.36;1145.44;north;s1
+t709;customer24;toaster;4;2023-12-09;home appliances;472.73;1890.92;north-west;s8
+t710;customer11;camera;5;2023-09-08;electronics;180.47;902.35;central;s5
+t711;customer5;electric kettle;3;2023-08-31;home appliances;386.45;1159.35;central;s5
+t712;customer26;lawn mower;10;2023-12-05;garden;319.8;3198.0;north;s1
+t713;customer10;laptop;6;2023-06-19;electronics;286.36;1718.16;south-east;s7
+t714;customer21;blender;9;2023-11-16;home appliances;448.75;4038.75;west;s4
+t715;customer28;toaster;6;2023-05-23;home appliances;472.73;2836.38;central;s5
+t716;customer26;e-reader;4;2023-12-22;electronics;124.11;496.44;north;s1
+t717;customer19;electric grill;10;2023-02-23;home appliances;269.68;2696.8;north-west;s8
+t718;customer25;vr headset;9;2023-08-09;electronics;421.47;3793.23;south-east;s7
+t719;customer27;hair dryer;2;2023-03-23;home appliances;466.13;932.26;central;s5
+t720;customer12;microwave;3;2023-10-26;home appliances;409.2;1227.6;north-east;s6
+t721;customer21;air purifier;8;2023-01-22;home appliances;289.79;2318.32;west;s4
+t722;customer19;shovel;2;2023-05-09;garden;119.01;238.02;north-west;s8
+t723;customer10;electric grill;6;2023-10-29;home appliances;269.68;1618.08;south-east;s7
+t724;customer15;hair dryer;4;2023-04-28;home appliances;466.13;1864.52;south-east;s7
+t725;customer18;vr headset;10;2023-02-16;electronics;421.47;4214.7;north-east;s6
+t726;customer27;washing machine;2;2023-06-17;home appliances;175.81;351.62;central;s5
+t727;customer24;solar light;2;2023-08-26;garden;497.68;995.36;north-west;s8
+t728;customer12;smartwatch;3;2023-03-17;electronics;133.49;400.47;north-east;s6
+t729;customer19;e-reader;8;2023-01-29;electronics;124.11;992.88;north-west;s8
+t730;customer23;bird feeder;2;2023-04-16;garden;259.8;519.6;south-east;s7
+t731;customer10;digital camera;10;2023-10-02;electronics;106.29;1062.9;south-east;s7
+t732;customer29;vacuum cleaner;2;2023-10-25;home appliances;321.36;642.72;south-east;s7
+t733;customer6;toaster;4;2023-07-01;home appliances;472.73;1890.92;south;s2
+t734;customer18;coffee machine;1;2023-12-17;home appliances;488.53;488.53;north-east;s6
+t735;customer29;camera;7;2023-06-28;electronics;180.47;1263.29;south-east;s7
+t736;customer15;toaster;3;2023-01-23;home appliances;472.73;1418.19;south-east;s7
+t737;customer6;e-reader;8;2023-09-17;electronics;124.11;992.88;south;s2
+t738;customer6;electric kettle;1;2023-07-19;home appliances;386.45;386.45;south;s2
+t739;customer18;hedge trimmer;5;2023-07-19;garden;115.83;579.15;north-east;s6
+t740;customer4;headphones;10;2023-02-07;electronics;486.39;4863.9;south-west;s9
+t741;customer15;coffee machine;7;2023-08-28;home appliances;488.53;3419.71;south-east;s7
+t742;customer19;e-reader;7;2023-03-02;electronics;124.11;868.77;north-west;s8
+t743;customer14;laptop;9;2023-06-13;electronics;286.36;2577.24;north-west;s8
+t744;customer13;smartwatch;1;2023-08-16;electronics;133.49;133.49;east;s3
+t745;customer7;camera;5;2023-05-25;electronics;180.47;902.35;north-west;s8
+t746;customer7;microwave;10;2023-06-25;home appliances;409.2;4092.0;north-west;s8
+t747;customer30;smartwatch;2;2023-05-16;electronics;133.49;266.98;south-west;s9
+t748;customer1;electric kettle;2;2023-06-07;home appliances;386.45;772.9;south-east;s7
+t749;customer8;blender;7;2023-07-31;home appliances;448.75;3141.25;west;s4
+t750;customer26;toaster;1;2023-04-27;home appliances;472.73;472.73;north;s1
+t751;customer4;noise cancelling headphones;1;2023-12-03;electronics;398.86;398.86;south-west;s9
+t752;customer18;toaster;5;2023-03-13;home appliances;472.73;2363.65;north-east;s6
+t753;customer20;smartwatch;10;2023-06-06;electronics;133.49;1334.9;south;s2
+t754;customer27;garden hose;5;2023-08-26;garden;80.36;401.8;central;s5
+t755;customer11;electric kettle;9;2023-06-27;home appliances;386.45;3478.05;central;s5
+t756;customer8;bird feeder;3;2023-04-18;garden;259.8;779.4;west;s4
+t757;customer17;rain barrel;4;2023-07-29;garden;474.58;1898.32;west;s4
+t758;customer14;smartphone;3;2023-09-12;electronics;443.38;1330.14;north-west;s8
+t759;customer5;blender;3;2023-11-04;home appliances;448.75;1346.25;central;s5
+t760;customer24;hair dryer;1;2023-12-27;home appliances;466.13;466.13;north-west;s8
+t761;customer4;rice cooker;10;2023-07-27;home appliances;360.77;3607.7;south-west;s9
+t762;customer21;air purifier;4;2023-09-11;home appliances;289.79;1159.16;west;s4
+t763;customer8;electric kettle;6;2023-05-17;home appliances;386.45;2318.7;west;s4
+t764;customer19;microwave;2;2023-06-22;home appliances;409.2;818.4;north-west;s8
+t765;customer10;toaster;10;2023-01-03;home appliances;472.73;4727.3;south-east;s7
+t766;customer6;leaf blower;7;2023-11-24;garden;203.1;1421.7;south;s2
+t767;customer11;electric kettle;3;2023-01-31;home appliances;386.45;1159.35;central;s5
+t768;customer28;external hard drive;9;2023-11-09;electronics;303.42;2730.78;central;s5
+t769;customer18;hair dryer;6;2023-12-12;home appliances;466.13;2796.78;north-east;s6
+t770;customer3;air fryer;10;2023-10-17;home appliances;172.82;1728.2;south;s2
+t771;customer6;camera;2;2023-05-02;electronics;180.47;360.94;south;s2
+t772;customer10;vr headset;8;2023-06-12;electronics;421.47;3371.76;south-east;s7
+t773;customer30;smartwatch;6;2023-10-10;electronics;133.49;800.94;south-west;s9
+t774;customer16;smartwatch;10;2023-07-13;electronics;133.49;1334.9;east;s3
+t775;customer3;electric kettle;8;2023-11-18;home appliances;386.45;3091.6;south;s2
+t776;customer27;smartwatch;5;2023-06-02;electronics;133.49;667.45;central;s5
+t777;customer6;garden fork;4;2023-09-15;garden;445.02;1780.08;south;s2
+t778;customer29;bread maker;4;2023-07-12;home appliances;97.27;389.08;south-east;s7
+t779;customer26;e-reader;10;2023-10-27;electronics;124.11;1241.1;north;s1
+t780;customer3;vacuum cleaner;8;2023-09-22;home appliances;321.36;2570.88;south;s2
+t781;customer25;tablet;4;2023-01-05;electronics;366.3;1465.2;south-east;s7
+t782;customer1;game console;5;2023-09-11;electronics;172.31;861.55;south-east;s7
+t783;customer4;smartwatch;8;2023-03-25;electronics;133.49;1067.92;south-west;s9
+t784;customer10;vacuum cleaner;6;2023-04-28;home appliances;321.36;1928.16;south-east;s7
+t785;customer19;smartwatch;9;2023-12-25;electronics;133.49;1201.41;north-west;s8
+t786;customer17;drone;4;2023-12-05;electronics;373.0;1492.0;west;s4
+t787;customer4;action camera;6;2023-11-09;electronics;67.45;404.7;south-west;s9
+t788;customer17;garden bench;10;2023-04-19;garden;158.28;1582.8;west;s4
+t789;customer10;laptop;7;2023-09-08;electronics;286.36;2004.52;south-east;s7
+t790;customer9;electric grill;3;2023-07-25;home appliances;269.68;809.04;central;s5
+t791;customer20;air purifier;4;2023-02-24;home appliances;289.79;1159.16;south;s2
+t792;customer10;coffee machine;8;2023-06-01;home appliances;488.53;3908.24;south-east;s7
+t793;customer27;drone;9;2023-09-14;electronics;373.0;3357.0;central;s5
+t794;customer21;blender;10;2023-09-20;home appliances;448.75;4487.5;west;s4
+t795;customer23;smartwatch;2;2023-12-07;electronics;133.49;266.98;south-east;s7
+t796;customer27;camera;7;2023-07-26;electronics;180.47;1263.29;central;s5
+t797;customer2;patio heater;4;2023-03-11;garden;264.27;1057.08;north-east;s6
+t798;customer2;tablet;10;2023-10-01;electronics;366.3;3663.0;north-east;s6
+t799;customer18;headphones;3;2023-06-13;electronics;486.39;1459.17;north-east;s6
+t800;customer1;tablet;4;2023-11-25;electronics;366.3;1465.2;south-east;s7
+t801;customer25;digital camera;7;2023-02-26;electronics;106.29;744.03;south-east;s7
+t802;customer15;hair dryer;7;2023-06-11;home appliances;466.13;3262.91;south-east;s7
+t803;customer1;air purifier;6;2023-10-03;home appliances;289.79;1738.74;south-east;s7
+t804;customer3;air purifier;5;2023-11-17;home appliances;289.79;1448.95;south;s2
+t805;customer22;digital camera;5;2023-05-02;electronics;106.29;531.45;east;s3
+t806;customer19;microwave;3;2023-11-30;home appliances;409.2;1227.6;north-west;s8
+t807;customer21;blender;5;2023-02-19;home appliances;448.75;2243.75;west;s4
+t808;customer7;electric kettle;6;2023-05-15;home appliances;386.45;2318.7;north-west;s8
+t809;customer15;laptop;9;2023-04-12;electronics;286.36;2577.24;south-east;s7
+t810;customer8;toaster;3;2023-09-09;home appliances;472.73;1418.19;west;s4
+t811;customer22;laptop;3;2023-08-10;electronics;286.36;859.08;east;s3
+t812;customer18;external hard drive;5;2023-06-25;electronics;303.42;1517.1;north-east;s6
+t813;customer10;headphones;4;2023-07-26;electronics;486.39;1945.56;south-east;s7
+t814;customer11;shovel;10;2023-11-10;garden;119.01;1190.1;central;s5
+t815;customer6;toaster;4;2023-11-07;home appliances;472.73;1890.92;south;s2
+t816;customer5;lawn mower;4;2023-10-03;garden;319.8;1279.2;central;s5
+t817;customer19;electric kettle;5;2023-06-27;home appliances;386.45;1932.25;north-west;s8
+t818;customer21;garden fork;4;2023-08-23;garden;445.02;1780.08;west;s4
+t819;customer3;smartwatch;10;2023-12-24;electronics;133.49;1334.9;south;s2
+t820;customer23;wheelbarrow;5;2023-08-19;garden;197.72;988.6;south-east;s7
+t821;customer24;digital camera;9;2023-05-13;electronics;106.29;956.61;north-west;s8
+t822;customer4;tablet;6;2023-04-27;electronics;366.3;2197.8;south-west;s9
+t823;customer29;garden hose;7;2023-06-19;garden;80.36;562.52;south-east;s7
+t824;customer2;hair dryer;5;2023-02-16;home appliances;466.13;2330.65;north-east;s6
+t825;customer8;slow cooker;4;2023-06-09;home appliances;142.42;569.68;west;s4
+t826;customer10;wheelbarrow;9;2023-04-13;garden;197.72;1779.48;south-east;s7
+t827;customer20;toaster;7;2023-08-18;home appliances;472.73;3309.11;south;s2
+t828;customer15;e-reader;4;2023-07-14;electronics;124.11;496.44;south-east;s7
+t829;customer1;hair dryer;1;2023-03-14;home appliances;466.13;466.13;south-east;s7
+t830;customer26;bluetooth speaker;3;2023-04-15;electronics;193.92;581.76;north;s1
+t831;customer2;tablet;2;2023-04-10;electronics;366.3;732.6;north-east;s6
+t832;customer14;electric grill;3;2023-08-26;home appliances;269.68;809.04;north-west;s8
+t833;customer3;microwave;1;2023-09-17;home appliances;409.2;409.2;south;s2
+t834;customer6;drone;9;2023-12-13;electronics;373.0;3357.0;south;s2
+t835;customer5;vr headset;7;2023-07-27;electronics;421.47;2950.29;central;s5
+t836;customer15;garden hose;2;2023-11-22;garden;80.36;160.72;south-east;s7
+t837;customer1;hair dryer;10;2023-12-17;home appliances;466.13;4661.3;south-east;s7
+t838;customer2;drone;7;2023-11-25;electronics;373.0;2611.0;north-east;s6
+t839;customer28;electric grill;7;2023-04-22;home appliances;269.68;1887.76;central;s5
+t840;customer1;vr headset;4;2023-04-15;electronics;421.47;1685.88;south-east;s7
+t841;customer12;pruning shears;9;2023-04-01;garden;182.53;1642.77;north-east;s6
+t842;customer15;hair dryer;5;2023-05-11;home appliances;466.13;2330.65;south-east;s7
+t843;customer24;air purifier;4;2023-12-23;home appliances;289.79;1159.16;north-west;s8
+t844;customer20;tablet;1;2023-10-23;electronics;366.3;366.3;south;s2
+t845;customer14;tablet;7;2023-05-11;electronics;366.3;2564.1;north-west;s8
+t846;customer20;vacuum cleaner;7;2023-04-17;home appliances;321.36;2249.52;south;s2
+t847;customer19;blender;8;2023-10-11;home appliances;448.75;3590.0;north-west;s8
+t848;customer19;microwave;7;2023-08-08;home appliances;409.2;2864.4;north-west;s8
+t849;customer25;garden sculpture;6;2023-05-08;garden;174.01;1044.06;south-east;s7
+t850;customer20;slow cooker;1;2023-02-11;home appliances;142.42;142.42;south;s2
+t851;customer21;coffee machine;5;2023-09-27;home appliances;488.53;2442.65;west;s4
+t852;customer3;action camera;3;2023-10-03;electronics;67.45;202.35;south;s2
+t853;customer13;electric kettle;5;2023-10-04;home appliances;386.45;1932.25;east;s3
+t854;customer1;camera;1;2023-12-11;electronics;180.47;180.47;south-east;s7
+t855;customer22;blender;5;2023-08-18;home appliances;448.75;2243.75;east;s3
+t856;customer20;rice cooker;9;2023-08-24;home appliances;360.77;3246.93;south;s2
+t857;customer28;smartphone;3;2023-01-21;electronics;443.38;1330.14;central;s5
+t858;customer2;rice cooker;2;2023-12-15;home appliances;360.77;721.54;north-east;s6
+t859;customer7;laptop;5;2023-07-18;electronics;286.36;1431.8;north-west;s8
+t860;customer5;e-reader;8;2023-03-14;electronics;124.11;992.88;central;s5
+t861;customer20;microwave;4;2023-03-23;home appliances;409.2;1636.8;south;s2
+t862;customer24;e-reader;10;2023-07-31;electronics;124.11;1241.1;north-west;s8
+t863;customer2;blender;2;2023-06-16;home appliances;448.75;897.5;north-east;s6
+t864;customer20;tablet;3;2023-09-06;electronics;366.3;1098.9;south;s2
+t865;customer9;hair dryer;1;2023-01-03;home appliances;466.13;466.13;central;s5
+t866;customer17;drone;7;2023-03-18;electronics;373.0;2611.0;west;s4
+t867;customer16;headphones;8;2023-09-23;electronics;486.39;3891.12;east;s3
+t868;customer7;hair dryer;2;2023-11-24;home appliances;466.13;932.26;north-west;s8
+t869;customer28;laptop;8;2023-02-22;electronics;286.36;2290.88;central;s5
+t870;customer30;rice cooker;9;2023-01-19;home appliances;360.77;3246.93;south-west;s9
+t871;customer16;solar light;8;2023-09-05;garden;497.68;3981.44;east;s3
+t872;customer2;laptop;2;2023-03-11;electronics;286.36;572.72;north-east;s6
+t873;customer21;vr headset;5;2023-12-04;electronics;421.47;2107.35;west;s4
+t874;customer29;drone;7;2023-01-26;electronics;373.0;2611.0;south-east;s7
+t875;customer21;microwave;8;2023-03-19;home appliances;409.2;3273.6;west;s4
+t876;customer21;smartwatch;4;2023-09-23;electronics;133.49;533.96;west;s4
+t877;customer23;blender;6;2023-07-13;home appliances;448.75;2692.5;south-east;s7
+t878;customer24;toaster;6;2023-03-28;home appliances;472.73;2836.38;north-west;s8
+t879;customer7;garden fork;10;2023-03-02;garden;445.02;4450.2;north-west;s8
+t880;customer18;drone;7;2023-03-30;electronics;373.0;2611.0;north-east;s6
+t881;customer16;vacuum cleaner;6;2023-05-29;home appliances;321.36;1928.16;east;s3
+t882;customer30;coffee machine;6;2023-12-09;home appliances;488.53;2931.18;south-west;s9
+t883;customer5;watering can;10;2023-07-09;garden;327.29;3272.9;central;s5
+t884;customer8;hair dryer;2;2023-05-13;home appliances;466.13;932.26;west;s4
+t885;customer11;steam iron;6;2023-08-18;home appliances;385.8;2314.8;central;s5
+t886;customer18;coffee machine;7;2023-03-13;home appliances;488.53;3419.71;north-east;s6
+t887;customer5;drone;9;2023-12-20;electronics;373.0;3357.0;central;s5
+t888;customer29;external hard drive;4;2023-10-09;electronics;303.42;1213.68;south-east;s7
+t889;customer10;electric kettle;3;2023-08-23;home appliances;386.45;1159.35;south-east;s7
+t890;customer6;tablet;5;2023-08-11;electronics;366.3;1831.5;south;s2
+t891;customer20;vacuum cleaner;8;2023-06-30;home appliances;321.36;2570.88;south;s2
+t892;customer9;microwave;2;2023-03-21;home appliances;409.2;818.4;central;s5
+t893;customer26;headphones;7;2023-01-06;electronics;486.39;3404.73;north;s1
+t894;customer18;rain barrel;9;2023-08-02;garden;474.58;4271.22;north-east;s6
+t895;customer21;smartphone;6;2023-09-20;electronics;443.38;2660.28;west;s4
+t896;customer6;e-reader;4;2023-04-16;electronics;124.11;496.44;south;s2
+t897;customer27;noise cancelling headphones;7;2023-03-23;electronics;398.86;2792.02;central;s5
+t898;customer24;smartphone;1;2023-02-26;electronics;443.38;443.38;north-west;s8
+t899;customer21;microwave;5;2023-04-06;home appliances;409.2;2046.0;west;s4
+t900;customer21;microwave;5;2023-08-25;home appliances;409.2;2046.0;west;s4
+t901;customer7;patio umbrella;6;2023-08-03;garden;391.96;2351.76;north-west;s8
+t902;customer6;electric grill;9;2023-10-02;home appliances;269.68;2427.12;south;s2
+t903;customer13;vr headset;6;2023-09-21;electronics;421.47;2528.82;east;s3
+t904;customer7;coffee machine;5;2023-02-10;home appliances;488.53;2442.65;north-west;s8
+t905;customer9;laptop;7;2023-04-26;electronics;286.36;2004.52;central;s5
+t906;customer26;headphones;8;2023-10-08;electronics;486.39;3891.12;north;s1
+t907;customer13;camera;1;2023-04-18;electronics;180.47;180.47;east;s3
+t908;customer17;leaf blower;10;2023-01-28;garden;203.1;2031.0;west;s4
+t909;customer6;grill;2;2023-09-11;garden;490.4;980.8;south;s2
+t910;customer25;vr headset;8;2023-01-10;electronics;421.47;3371.76;south-east;s7
+t911;customer24;headphones;9;2023-09-26;electronics;486.39;4377.51;north-west;s8
+t912;customer28;coffee machine;9;2023-09-15;home appliances;488.53;4396.77;central;s5
+t913;customer30;watering can;6;2023-08-14;garden;327.29;1963.74;south-west;s9
+t914;customer1;camera;10;2023-02-22;electronics;180.47;1804.7;south-east;s7
+t915;customer2;toaster;9;2023-06-05;home appliances;472.73;4254.57;north-east;s6
+t916;customer27;e-reader;5;2023-06-10;electronics;124.11;620.55;central;s5
+t917;customer21;coffee machine;5;2023-08-09;home appliances;488.53;2442.65;west;s4
+t918;customer3;electric kettle;2;2023-04-19;home appliances;386.45;772.9;south;s2
+t919;customer29;vr headset;5;2023-03-06;electronics;421.47;2107.35;south-east;s7
+t920;customer16;microwave;10;2023-12-22;home appliances;409.2;4092.0;east;s3
+t921;customer21;camera;4;2023-12-28;electronics;180.47;721.88;west;s4
+t922;customer24;smartwatch;8;2023-10-19;electronics;133.49;1067.92;north-west;s8
+t923;customer9;smartphone;6;2023-08-09;electronics;443.38;2660.28;central;s5
+t924;customer20;outdoor fire pit;2;2023-09-30;garden;298.7;597.4;south;s2
+t925;customer2;e-reader;5;2023-10-08;electronics;124.11;620.55;north-east;s6
+t926;customer9;smartwatch;8;2023-12-25;electronics;133.49;1067.92;central;s5
+t927;customer25;e-reader;2;2023-11-01;electronics;124.11;248.22;south-east;s7
+t928;customer20;microwave;3;2023-10-18;home appliances;409.2;1227.6;south;s2
+t929;customer2;electric kettle;6;2023-12-19;home appliances;386.45;2318.7;north-east;s6
+t930;customer4;wireless charger;4;2023-07-19;electronics;347.48;1389.92;south-west;s9
+t931;customer16;smartwatch;10;2023-07-04;electronics;133.49;1334.9;east;s3
+t932;customer23;vr headset;5;2023-06-15;electronics;421.47;2107.35;south-east;s7
+t933;customer22;toaster;8;2023-01-12;home appliances;472.73;3781.84;east;s3
+t934;customer25;toaster;9;2023-08-23;home appliances;472.73;4254.57;south-east;s7
+t935;customer25;tablet;7;2023-04-01;electronics;366.3;2564.1;south-east;s7
+t936;customer23;e-reader;5;2023-05-20;electronics;124.11;620.55;south-east;s7
+t937;customer15;refrigerator;10;2023-02-28;home appliances;177.97;1779.7;south-east;s7
+t938;customer26;garden fork;10;2023-02-27;garden;445.02;4450.2;north;s1
+t939;customer28;e-reader;1;2023-11-19;electronics;124.11;124.11;central;s5
+t940;customer25;camera;7;2023-07-16;electronics;180.47;1263.29;south-east;s7
+t941;customer18;electric kettle;2;2023-05-15;home appliances;386.45;772.9;north-east;s6
+t942;customer1;tablet;4;2023-06-03;electronics;366.3;1465.2;south-east;s7
+t943;customer9;sprinkler;4;2023-07-30;garden;252.06;1008.24;central;s5
+t944;customer29;drone;4;2023-08-07;electronics;373.0;1492.0;south-east;s7
+t945;customer7;camera;6;2023-11-28;electronics;180.47;1082.82;north-west;s8
+t946;customer16;patio umbrella;5;2023-06-06;garden;391.96;1959.8;east;s3
+t947;customer3;smartphone;2;2023-04-10;electronics;443.38;886.76;south;s2
+t948;customer19;e-reader;3;2023-06-13;electronics;124.11;372.33;north-west;s8
+t949;customer27;washing machine;6;2023-03-08;home appliances;175.81;1054.86;central;s5
+t950;customer28;vr headset;6;2023-09-08;electronics;421.47;2528.82;central;s5
+t951;customer8;laptop;9;2023-10-16;electronics;286.36;2577.24;west;s4
+t952;customer22;hair dryer;8;2023-11-20;home appliances;466.13;3729.04;east;s3
+t953;customer14;smartwatch;2;2023-04-26;electronics;133.49;266.98;north-west;s8
+t954;customer25;garden sculpture;8;2023-01-11;garden;174.01;1392.08;south-east;s7
+t955;customer26;wireless charger;4;2023-03-27;electronics;347.48;1389.92;north;s1
+t956;customer28;toaster;2;2023-08-24;home appliances;472.73;945.46;central;s5
+t957;customer25;tablet;1;2023-12-24;electronics;366.3;366.3;south-east;s7
+t958;customer24;vr headset;1;2023-11-11;electronics;421.47;421.47;north-west;s8
+t959;customer5;headphones;1;2023-06-30;electronics;486.39;486.39;central;s5
+t960;customer18;drone;8;2023-03-19;electronics;373.0;2984.0;north-east;s6
+t961;customer1;garden sculpture;7;2023-02-07;garden;174.01;1218.07;south-east;s7
+t962;customer25;vr headset;6;2023-06-26;electronics;421.47;2528.82;south-east;s7
+t963;customer3;vacuum cleaner;1;2023-09-18;home appliances;321.36;321.36;south;s2
+t964;customer6;electric kettle;5;2023-11-30;home appliances;386.45;1932.25;south;s2
+t965;customer26;grill;10;2023-07-05;garden;490.4;4904.0;north;s1
+t966;customer18;air purifier;7;2023-02-12;home appliances;289.79;2028.53;north-east;s6
+t967;customer26;coffee machine;8;2023-08-19;home appliances;488.53;3908.24;north;s1
+t968;customer3;bird feeder;9;2023-02-13;garden;259.8;2338.2;south;s2
+t969;customer11;leaf blower;5;2023-11-10;garden;203.1;1015.5;central;s5
+t970;customer4;outdoor fire pit;10;2023-02-10;garden;298.7;2987.0;south-west;s9
+t971;customer29;drone;9;2023-02-12;electronics;373.0;3357.0;south-east;s7
+t972;customer19;leaf blower;3;2023-07-31;garden;203.1;609.3;north-west;s8
+t973;customer28;projector;4;2023-02-04;electronics;498.57;1994.28;central;s5
+t974;customer3;toaster;10;2023-12-27;home appliances;472.73;4727.3;south;s2
+t975;customer7;portable gaming system;3;2023-09-05;electronics;162.18;486.54;north-west;s8
+t976;customer6;slow cooker;8;2023-11-09;home appliances;142.42;1139.36;south;s2
+t977;customer24;laptop;10;2023-03-24;electronics;286.36;2863.6;north-west;s8
+t978;customer23;bread maker;1;2023-12-07;home appliances;97.27;97.27;south-east;s7
+t979;customer3;vr headset;3;2023-09-25;electronics;421.47;1264.41;south;s2
+t980;customer2;electric kettle;6;2023-09-20;home appliances;386.45;2318.7;north-east;s6
+t981;customer14;toaster;9;2023-10-27;home appliances;472.73;4254.57;north-west;s8
+t982;customer2;watering can;7;2023-10-26;garden;327.29;2291.03;north-east;s6
+t983;customer19;blender;4;2023-05-15;home appliances;448.75;1795.0;north-west;s8
+t984;customer26;sprinkler;4;2023-04-04;garden;252.06;1008.24;north;s1
+t985;customer16;tablet;10;2023-12-28;electronics;366.3;3663.0;east;s3
+t986;customer4;blender;5;2023-10-18;home appliances;448.75;2243.75;south-west;s9
+t987;customer4;e-reader;9;2023-04-10;electronics;124.11;1116.99;south-west;s9
+t988;customer5;hair dryer;3;2023-09-04;home appliances;466.13;1398.39;central;s5
+t989;customer17;patio umbrella;8;2023-06-02;garden;391.96;3135.68;west;s4
+t990;customer15;external hard drive;3;2023-08-06;electronics;303.42;910.26;south-east;s7
+t991;customer19;microwave;3;2023-08-08;home appliances;409.2;1227.6;north-west;s8
+t992;customer27;laptop;3;2023-03-19;electronics;286.36;859.08;central;s5
+t993;customer15;air fryer;2;2023-11-29;home appliances;172.82;345.64;south-east;s7
+t994;customer24;smartwatch;3;2023-06-02;electronics;133.49;400.47;north-west;s8
+t995;customer30;garden bench;5;2023-09-21;garden;158.28;791.4;south-west;s9
+t996;customer6;headphones;8;2023-09-03;electronics;486.39;3891.12;south;s2
+t997;customer20;air purifier;6;2023-04-13;home appliances;289.79;1738.74;south;s2
+t998;customer12;laptop;3;2023-06-13;electronics;286.36;859.08;north-east;s6
+t999;customer13;hair dryer;2;2023-04-14;home appliances;466.13;932.26;east;s3
+t1000;customer23;vr headset;9;2023-06-26;electronics;421.47;3793.23;south-east;s7

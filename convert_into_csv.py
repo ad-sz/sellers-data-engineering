@@ -39,7 +39,7 @@ def sellers_csv_processed(SELLERS_CSV_FILEPATH_OLD, SELLERS_CSV_FILEPATH_NEW):
     # create data frame from sellers csv file
     data_frame_sellers_csv = pd.read_csv(SELLERS_CSV_FILEPATH_OLD)
     # change columns names in sellers data frame file
-    data_frame_sellers_csv.columns = ['id_seller', 'first_name', 'last_name', 'employment_date', 'date_of_birth', 'region']
+    data_frame_sellers_csv.columns = ['id_seller', 'first_name', 'last_name', 'date_employment', 'date_birth', 'region']
 
     # change all letters for small
     data_frame_sellers_csv = data_frame_sellers_csv.applymap(lambda x: x.lower() if type(x) == str else x)
@@ -49,18 +49,28 @@ def sellers_csv_processed(SELLERS_CSV_FILEPATH_OLD, SELLERS_CSV_FILEPATH_NEW):
 
 
 """function for ceate new sales_transactions csv file with standart layout"""
-def sales_transactions_csv_processed(SALES_TRANSACTIONS_JSON_FILEPATH_OLD, SALES_TRANSACTIONS_CSV_FILEPATH_NEW, CUSTOMERS_CSV_FILEPATH_OLD, SELLERS_CSV_FILEPATH_OLD):
+def sales_transactions_csv_processed(SALES_TRANSACTIONS_JSON_FILEPATH_OLD, SALES_TRANSACTIONS_CSV_FILEPATH_NEW, CUSTOMERS_CSV_FILEPATH_OLD, SELLERS_CSV_FILEPATH_OLD, PRODUCTS_CSV_FILEPATH_OLD):
     # create data frame from sales_transactions json file
     data_frame_sales_transactions_json = pd.read_json(SALES_TRANSACTIONS_JSON_FILEPATH_OLD)
     # change columns names in sales_transactions data frame file
-    data_frame_sales_transactions_json.columns = ['id_transaction', 'name_customer', 'name_product', 'quantity_sold']
+    data_frame_sales_transactions_json.columns = ['id_transaction', 'name_customer', 'name_product', 'quantity_sold', 'date_sale']
+
+    # create data frame with 2 collumns from products csv file
+    data_frame_products_csv = pd.read_csv(PRODUCTS_CSV_FILEPATH_OLD, usecols=['Category', 'Name', 'Unit Price'])
+    # change columns names in products data frame file
+    data_frame_products_csv.columns = ['category_product', 'name_product', 'unit_price']
+
+    # connection two data frames by name_product, adding unit_price for the sale transaction
+    data_frame_sales_transactions_json = pd.merge(data_frame_sales_transactions_json, data_frame_products_csv, on='name_product', how='left')
+    # createnew new collumn transaction_amount
+    data_frame_sales_transactions_json['transaction_amount'] = (data_frame_sales_transactions_json['unit_price'] * data_frame_sales_transactions_json['quantity_sold']).round(2)
 
     # create data frame with 2 collumns from customers csv file
     data_frame_customers_csv = pd.read_csv(CUSTOMERS_CSV_FILEPATH_OLD, usecols=['Customer Name', 'Region'])
     # change columns names in customers data frame file
     data_frame_customers_csv.columns = ['name_customer', 'region']
 
-    # connection two data frames by name_customer, adding region fr the sale transaction
+    # connection two data frames by name_customer, adding region for the sale transaction
     data_frame_sales_transactions_json = pd.merge(data_frame_sales_transactions_json, data_frame_customers_csv, on='name_customer', how='left')
 
     # create data frame with 2 collumns from sellers csv file
@@ -97,7 +107,7 @@ def inventory_status_csv_processed(INVENTORY_STATUS_CSV_FILEPATH_OLD, INVENTORY_
     # create data frame from inventory_status csv file
     data_frame_inventory_status_csv = pd.read_csv(INVENTORY_STATUS_CSV_FILEPATH_OLD)
     # change columns names in inventory_status data frame file
-    data_frame_inventory_status_csv.columns = ['id_product', 'quantity_in_stock', 'pallet_space', 'posting_date']
+    data_frame_inventory_status_csv.columns = ['id_product', 'quantity_in_stock', 'pallet_space', 'date_posting']
 
     # change all letters for small
     data_frame_inventory_status_csv = data_frame_inventory_status_csv.applymap(lambda x: x.lower() if type(x) == str else x)
